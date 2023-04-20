@@ -1,0 +1,791 @@
+bikepoint_id,bikepoint_name,place_type,lat,lon,postcode,lsoa,lsoa_code,msoa,msoa_code,ward,ward_code,local_authority,local_authority_code
+BikePoints_85,"Tanner Street, Bermondsey",BikePoint,51.500647,-0.0786,SE1 3JB,Southwark 003I,E01032646,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_86,"Sancroft Street, Vauxhall",BikePoint,51.489479,-0.115156,SE11 5NF,Lambeth 003B,E01003105,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_87,"Devonshire Square, Liverpool Street",BikePoint,51.516468,-0.079684,EC2M 4UJ,City of London 001F,E01032739,City of London 001,E02000001,Bishopsgate,E05009292,City of London,E09000001
+BikePoints_88,"Bayley Street , Bloomsbury",BikePoint,51.518587,-0.132053,W1T 7RB,Camden 026A,E01000850,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_89,"Tavistock Place, Bloomsbury",BikePoint,51.52625,-0.123509,WC1H 9RW,Camden 025B,E01000937,Camden 025,E02000190,King's Cross,E05000141,Camden,E09000007
+BikePoints_90,"Harrington Square 1, Camden Town",BikePoint,51.533019,-0.139174,NW1 7AW,Camden 021C,E01000947,Camden 021,E02000186,Regent's Park,E05000142,Camden,E09000007
+BikePoints_91,"Walnut Tree Walk, Vauxhall",BikePoint,51.493686,-0.111014,SE11 6RB,Lambeth 002A,E01003015,Lambeth 002,E02000619,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_92,"Borough Road, Elephant & Castle",BikePoint,51.498898,-0.10044,SE1 0AJ,Southwark 034B,E01003932,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_93,"Cloudesley Road, Angel",BikePoint,51.534408,-0.109025,N1 0XT,Islington 020A,E01002696,Islington 020,E02000573,Barnsbury,E05000366,Islington,E09000019
+BikePoints_94,"Bricklayers Arms, Borough",BikePoint,51.495061,-0.085814,SE1 4TD,Southwark 006C,E01003941,Southwark 006,E02000812,Chaucer,E05011098,Southwark,E09000028
+BikePoints_95,"Aldersgate Street, Barbican",BikePoint,51.520841,-0.09734,EC1A 4JR,City of London 001A,E01000001,City of London 001,E02000001,Aldersgate,E05009288,City of London,E09000001
+BikePoints_96,"Falkirk Street, Hoxton",BikePoint,51.53095,-0.078505,N1 6SA,Hackney 027B,E01001777,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_97,"Gloucester Road (North), Kensington",BikePoint,51.497924,-0.183834,SW7 4UB,Kensington and Chelsea 010C,E01002890,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_98,"Hampstead Road, Euston",BikePoint,51.525542,-0.138231,NW1 2AF,Camden 021B,E01000946,Camden 021,E02000186,Regent's Park,E05000142,Camden,E09000007
+BikePoints_99,"Old Quebec Street, Marylebone",BikePoint,51.514577,-0.158264,W1H 7JP,Westminster 012A,E01004657,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_100,"Albert Embankment, Vauxhall",BikePoint,51.490435,-0.122806,SE1 7AP,Lambeth 003E,E01003109,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_101,"Queen Street 1, Bank",BikePoint,51.511553,-0.09294,EC4R 1BR,City of London 001F,E01032739,City of London 001,E02000001,Vintry,E05009311,City of London,E09000001
+BikePoints_102,"Jewry Street, Aldgate",BikePoint,51.513406,-0.076793,EC3N 2ER,City of London 001F,E01032739,City of London 001,E02000001,Tower,E05009310,City of London,E09000001
+BikePoints_103,"Vicarage Gate, Kensington",BikePoint,51.504723,-0.192538,W8 4AA,Kensington and Chelsea 008C,E01002826,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_104,"Crosswall, Tower",BikePoint,51.511594,-0.077121,EC3N 2AU,City of London 001F,E01032739,City of London 001,E02000001,Tower,E05009310,City of London,E09000001
+BikePoints_105,"Westbourne Grove, Bayswater",BikePoint,51.515529,-0.19024,W2 5RH,Westminster 014B,E01004654,Westminster 014,E02000973,Bayswater,E05000631,Westminster,E09000033
+BikePoints_106,"Woodstock Street, Mayfair",BikePoint,51.514105,-0.147301,W1C 2AT,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_107,"Finsbury Leisure Centre, St. Luke's",BikePoint,51.526008,-0.096317,EC1V 3AF,Islington 023C,E01002703,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_108,"Abbey Orchard Street, Westminster",BikePoint,51.498125,-0.132102,SW1P 2BS,Westminster 020B,E01004732,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_109,"Soho Square , Soho",BikePoint,51.515631,-0.132328,W1D 3QF,Westminster 013B,E01004763,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_110,"Wellington Road, St. John's Wood",BikePoint,51.533043,-0.172528,NW8 9ST,Westminster 003C,E01004726,Westminster 003,E02000962,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_111,"Park Lane , Hyde Park",BikePoint,51.510017,-0.157275,W1K 7TF,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_112,"Stonecutter Street, Holborn",BikePoint,51.515809,-0.10527,EC4A 4AH,City of London 001G,E01032740,City of London 001,E02000001,Farringdon Within,E05009304,City of London,E09000001
+BikePoints_113,"Gloucester Road (Central), South Kensington",BikePoint,51.496462,-0.183289,SW7 4PB,Kensington and Chelsea 010A,E01002887,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_114,"Park Road (Baker Street), The Regent's Park",BikePoint,51.524517,-0.158963,NW1 4RB,Westminster 008D,E01004727,Westminster 008,E02000967,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_115,"Braham Street, Aldgate",BikePoint,51.514233,-0.073537,E1 8AX,City of London 001E,E01000005,City of London 001,E02000001,Portsoken,E05009308,City of London,E09000001
+BikePoints_116,"Little Argyll Street, West End",BikePoint,51.514499,-0.141423,W1F 7BQ,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_117,"Lollard Street, Vauxhall",BikePoint,51.49288,-0.114934,SE11 6PX,Lambeth 002E,E01003112,Lambeth 002,E02000619,Prince's,E05000427,Lambeth,E09000022
+BikePoints_118,"Rochester Row, Westminster",BikePoint,51.495827,-0.135478,SW1P 1AB,Westminster 020D,E01004744,Westminster 020,E02000979,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_119,"Bath Street, St. Luke's",BikePoint,51.525893,-0.090847,EC1V 9DP,Islington 023A,E01002701,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_120,"The Guildhall, Guildhall",BikePoint,51.515735,-0.09308,EC2V 5AF,City of London 001B,E01000002,City of London 001,E02000001,Bassishaw,E05009290,City of London,E09000001
+BikePoints_121,"Baker Street, Marylebone",BikePoint,51.518913,-0.156166,W1U 7EX,Westminster 011B,E01004714,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_122,"Norton Folgate, Liverpool Street",BikePoint,51.521113,-0.078869,E1 6DB,Tower Hamlets 015B,E01004307,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_123,"St. John Street, Finsbury",BikePoint,51.52836,-0.104724,EC1V 4PA,Islington 022C,E01002723,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_124,"Eaton Square, Belgravia",BikePoint,51.496544,-0.150905,SW1W 9AD,Westminster 019D,E01004690,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_125,"Borough High Street, The Borough",BikePoint,51.500694,-0.094524,SE1 1QN,Southwark 002B,E01003929,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_126,"Museum of London, Barbican",BikePoint,51.517821,-0.096496,EC2Y 5HN,City of London 001A,E01000001,City of London 001,E02000001,Aldersgate,E05009288,City of London,E09000001
+BikePoints_127,"Wood Street, Guildhall",BikePoint,51.517008,-0.093885,EC2V 7AJ,City of London 001B,E01000002,City of London 001,E02000001,Bassishaw,E05009290,City of London,E09000001
+BikePoints_128,"Emperor's Gate, South Kensington",BikePoint,51.495362,-0.185296,SW7 4ES,Kensington and Chelsea 013E,E01002888,Kensington and Chelsea 013,E02000589,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_129,"Golden Square, Soho",BikePoint,51.511897,-0.137043,W1F 9HT,Westminster 013F,E01033596,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_130,"Tower Gardens , Tower",BikePoint,51.509506,-0.075459,EC3N 1AP,City of London 001E,E01000005,City of London 001,E02000001,Tower,E05009310,City of London,E09000001
+BikePoints_131,"Eversholt Street , Camden Town",BikePoint,51.533005,-0.136792,NW1 1NX,Camden 022A,E01000952,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_132,"Bethnal Green Road, Shoreditch",BikePoint,51.523648,-0.074754,E1 6JU,Tower Hamlets 009D,E01004317,Tower Hamlets 009,E02000872,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_133,"Derry Street, Kensington",BikePoint,51.501364,-0.191462,W8 5EE,Kensington and Chelsea 010B,E01002889,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_134,"Wapping High Street, Wapping",BikePoint,51.504904,-0.06797,E1W 1UJ,Tower Hamlets 027B,E01004293,Tower Hamlets 027,E02000890,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_135,"Clerkenwell Green, Clerkenwell",BikePoint,51.52326,-0.104708,EC1R 0DE,Islington 022D,E01002724,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_136,"Queen Victoria Street, St. Paul's",BikePoint,51.511961,-0.097441,EC4V 4BJ,City of London 001F,E01032739,City of London 001,E02000001,Bread Street,E05009293,City of London,E09000001
+BikePoints_138,"Green Street, Mayfair",BikePoint,51.512276,-0.157436,W1K 7AE,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_139,"Lambeth Road, Vauxhall",BikePoint,51.494881,-0.117974,SE1 7JP,Lambeth 036A,E01003013,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_140,"Finsbury Square , Moorgate",BikePoint,51.520962,-0.085634,EC2A 1AG,Islington 023D,E01002704,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_141,"Chapel Place, Marylebone",BikePoint,51.515308,-0.147203,W1G 0DQ,Westminster 013D,E01004765,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_142,"West Cromwell Road, Earl's Court",BikePoint,51.493724,-0.198286,SW5 9QN,Kensington and Chelsea 015A,E01002814,Kensington and Chelsea 015,E02000591,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_143,"Pont Street, Knightsbridge",BikePoint,51.496886,-0.161203,SW1X 0BB,Kensington and Chelsea 012E,E01002863,Kensington and Chelsea 012,E02000588,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_144,"Kennington Cross, Kennington",BikePoint,51.48894,-0.111435,SE11 5UQ,Lambeth 003C,E01003106,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_145,"Ilchester Place, Kensington",BikePoint,51.500743,-0.202759,W14 8AA,Kensington and Chelsea 009A,E01002864,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_146,"Vauxhall Bridge , Pimlico",BikePoint,51.488365,-0.129361,SW1V 3JL,Westminster 024C,E01004737,Westminster 024,E02000983,Tachbrook,E05000645,Westminster,E09000033
+BikePoints_148,"Tachbrook Street, Victoria",BikePoint,51.492111,-0.138364,SW1V 2LZ,Westminster 021A,E01004740,Westminster 021,E02000980,Tachbrook,E05000645,Westminster,E09000033
+BikePoints_149,"Kennington Road Post Office, Oval",BikePoint,51.484788,-0.110683,SE11 4QA,Lambeth 003A,E01003101,Lambeth 003,E02000620,Oval,E05000426,Lambeth,E09000022
+BikePoints_150,"Holy Trinity Brompton, Knightsbridge",BikePoint,51.497056,-0.168917,SW3 2BQ,Kensington and Chelsea 012B,E01002819,Kensington and Chelsea 012,E02000588,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_151,"Chepstow Villas, Notting Hill",BikePoint,51.512136,-0.201554,W11 3DP,Kensington and Chelsea 006A,E01002882,Kensington and Chelsea 006,E02000582,Colville,E05009392,Kensington and Chelsea,E09000020
+BikePoints_152,"Hampton Street, Walworth",BikePoint,51.49217,-0.101536,SE1 6SF,Southwark 014G,E01032719,Southwark 014,E02000820,North Walworth,E05011107,Southwark,E09000028
+BikePoints_153,"Bayswater Road, Hyde Park",BikePoint,51.511933,-0.174411,W2 2UD,Westminster 019C,E01004689,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_154,"Waterloo Station 3, Waterloo",BikePoint,51.503791,-0.112824,SE1 8SQ,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_155,"Lexham Gardens, Kensington",BikePoint,51.495866,-0.191933,W8 5LJ,Kensington and Chelsea 013A,E01002812,Kensington and Chelsea 013,E02000589,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_156,"New Kent Road, The Borough",BikePoint,51.494436,-0.092921,SE1 6AQ,Southwark 009F,E01032720,Southwark 009,E02000815,Chaucer,E05011098,Southwark,E09000028
+BikePoints_157,"Wright's Lane, Kensington",BikePoint,51.500397,-0.193068,W8 6TA,Kensington and Chelsea 011C,E01002816,Kensington and Chelsea 011,E02000587,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_158,"Trebovir Road, Earl's Court",BikePoint,51.490853,-0.19617,SW5 9TD,Kensington and Chelsea 015B,E01002847,Kensington and Chelsea 015,E02000591,Earl's Court,E05009395,Kensington and Chelsea,E09000020
+BikePoints_160,"Waterloo Place, St. James's",BikePoint,51.506633,-0.131773,SW1Y 5ED,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_161,"Guildhouse Street, Victoria",BikePoint,51.492345,-0.141334,SW1V 1JB,Westminster 022B,E01004749,Westminster 022,E02000981,Warwick,E05000647,Westminster,E09000033
+BikePoints_162,"Southampton Place, Holborn",BikePoint,51.517606,-0.121328,WC1V 6AN,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_163,"Sloane Avenue, Knightsbridge",BikePoint,51.493184,-0.167894,SW3 3AJ,Kensington and Chelsea 012D,E01002860,Kensington and Chelsea 012,E02000588,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_164,"Cleveland Gardens, Bayswater",BikePoint,51.515607,-0.183118,W2 6ED,Westminster 017D,E01004696,Westminster 017,E02000976,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_165,"Orsett Terrace, Bayswater",BikePoint,51.517932,-0.183716,W2 6AZ,Westminster 014D,E01004656,Westminster 014,E02000973,Bayswater,E05000631,Westminster,E09000033
+BikePoints_166,"Seville Street, Knightsbridge",BikePoint,51.501855,-0.159237,SW1X 7RQ,Kensington and Chelsea 012A,E01002818,Kensington and Chelsea 012,E02000588,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_167,"Eccleston Place, Victoria",BikePoint,51.49395,-0.147624,SW1W 9SA,Westminster 023E,E01004750,Westminster 023,E02000982,Warwick,E05000647,Westminster,E09000033
+BikePoints_433,"Wren Street, Holborn",BikePoint,51.524564,-0.116279,WC1X 8JR,Camden 024A,E01000936,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_435,"Kennington Station, Kennington",BikePoint,51.488852,-0.105593,SE11 4RE,Lambeth 002B,E01003108,Lambeth 002,E02000619,Prince's,E05000427,Lambeth,E09000022
+BikePoints_436,"Red Lion Street, Holborn",BikePoint,51.51824,-0.11655,WC1V 6BA,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_437,"Vauxhall Walk, Vauxhall",BikePoint,51.488124,-0.120903,SE11 5HL,Lambeth 003E,E01003109,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_439,"Killick Street, King's Cross",BikePoint,51.5338,-0.118677,N1 9RY,Islington 021B,E01002711,Islington 021,E02000574,Caledonian,E05000368,Islington,E09000019
+BikePoints_440,"Kennington Oval, Oval",BikePoint,51.483145,-0.113134,SE11 5SZ,Lambeth 003A,E01003101,Lambeth 003,E02000620,Oval,E05000426,Lambeth,E09000022
+BikePoints_441,"Sail Street, Vauxhall",BikePoint,51.495656,-0.114605,SE11 6NB,Lambeth 002A,E01003015,Lambeth 002,E02000619,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_442,"Walmer Road, Avondale",BikePoint,51.510101,-0.211358,W11 4SF,Kensington and Chelsea 005B,E01002872,Kensington and Chelsea 005,E02000581,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_443,"Philpot Street, Whitechapel",BikePoint,51.515256,-0.058641,E1 2DT,Tower Hamlets 017D,E01004326,Tower Hamlets 017,E02000880,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_444,"Bethnal Green Garden, Bethnal Green",BikePoint,51.52568,-0.055312,E2 6FG,Tower Hamlets 011D,E01004212,Tower Hamlets 011,E02000874,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_445,"Cheshire Street, Bethnal Green",BikePoint,51.52388,-0.065076,E2 6JA,Tower Hamlets 009D,E01004317,Tower Hamlets 009,E02000872,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_446,"York Hall, Bethnal Green",BikePoint,51.528936,-0.055894,E2 9LH,Tower Hamlets 005C,E01004203,Tower Hamlets 005,E02000868,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_447,"Jubilee Crescent, Cubitt Town",BikePoint,51.493381,-0.007542,E14 3HN,Tower Hamlets 030B,E01004216,Tower Hamlets 030,E02000893,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_448,"Fisherman's Walk West, Canary Wharf",BikePoint,51.50623,-0.02296,E14 4QJ,Tower Hamlets 033A,E01004277,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_449,"Shadwell Station, Shadwell",BikePoint,51.511088,-0.057159,E1 2QF,Tower Hamlets 025C,E01004302,Tower Hamlets 025,E02000888,Shadwell,E05009332,Tower Hamlets,E09000030
+BikePoints_450,"Jubilee Street, Stepney",BikePoint,51.515975,-0.053177,E1 3EG,Tower Hamlets 016B,E01004287,Tower Hamlets 016,E02000879,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_451,"Hermitage Court, Wapping",BikePoint,51.504719,-0.063531,E1W 1PH,Tower Hamlets 026A,E01004292,Tower Hamlets 026,E02000889,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_452,"St. Katharine's Way, Tower",BikePoint,51.505697,-0.070542,E1W 1UQ,Tower Hamlets 027B,E01004293,Tower Hamlets 027,E02000890,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_453,"Garnet Street, Shadwell",BikePoint,51.508447,-0.055167,E1W 3RY,Tower Hamlets 025D,E01004303,Tower Hamlets 025,E02000888,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_454,"Napier Avenue, Millwall",BikePoint,51.487679,-0.021582,E14 3QE,Tower Hamlets 031A,E01004274,Tower Hamlets 031,E02000894,Island Gardens,E05009324,Tower Hamlets,E09000030
+BikePoints_455,"East Ferry Road, Cubitt Town",BikePoint,51.49447,-0.014409,E14 9GL,Tower Hamlets 028A,E01004215,Tower Hamlets 028,E02000891,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_456,"Parkway, Camden Town",BikePoint,51.538071,-0.144664,NW1 7AH,Camden 021A,E01000863,Camden 021,E02000186,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_457,"Castlehaven Road, Camden Town",BikePoint,51.542138,-0.145393,NW1 8QU,Camden 018B,E01000858,Camden 018,E02000183,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_458,"Wapping Lane, Wapping",BikePoint,51.504749,-0.057544,E1W 2RT,Tower Hamlets 027A,E01004291,Tower Hamlets 027,E02000890,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_459,"Gunmakers Lane, Old Ford",BikePoint,51.535179,-0.03338,E3 5PS,Tower Hamlets 001A,E01004222,Tower Hamlets 001,E02000864,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_460,"Burdett Road, Mile End",BikePoint,51.516196,-0.029138,E14 7ER,Tower Hamlets 014E,E01004273,Tower Hamlets 014,E02000877,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_461,"Aston Street, Stepney",BikePoint,51.516,-0.038775,E14 7UP,Tower Hamlets 019B,E01004285,Tower Hamlets 019,E02000882,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_462,"Bonny Street, Camden Town",BikePoint,51.541603,-0.138853,NW1 9LR,Camden 019A,E01000856,Camden 019,E02000184,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_463,"Thurtle Road, Haggerston",BikePoint,51.534776,-0.071881,E2 8LU,Hackney 025E,E01001773,Hackney 025,E02000369,Haggerston,E05009375,Hackney,E09000012
+BikePoints_464,"St. Mary & St. Michael Church, Stepney",BikePoint,51.51417,-0.052099,E1 0PW,Tower Hamlets 016B,E01004287,Tower Hamlets 016,E02000879,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_465,"Pitfield Street North,Hoxton",BikePoint,51.53558,-0.08249,N1 5PX,Hackney 025C,E01001754,Hackney 025,E02000369,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_466,"Whiston Road, Haggerston",BikePoint,51.534464,-0.076341,E2 8BW,Hackney 025F,E01001776,Hackney 025,E02000369,Haggerston,E05009375,Hackney,E09000012
+BikePoints_467,"Southern Grove, Bow",BikePoint,51.523538,-0.030556,E3 4PX,Tower Hamlets 014A,E01004269,Tower Hamlets 014,E02000877,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_468,"Cantrell Road, Bow",BikePoint,51.521564,-0.022694,E3 4EN,Tower Hamlets 012B,E01004241,Tower Hamlets 012,E02000875,Bromley South,E05009322,Tower Hamlets,E09000030
+BikePoints_469,"Lindfield Street, Poplar",BikePoint,51.513757,-0.020467,E14 6GW,Tower Hamlets 024B,E01004253,Tower Hamlets 024,E02000887,Lansbury,E05009325,Tower Hamlets,E09000030
+BikePoints_470,"Mostyn Grove, Bow",BikePoint,51.530535,-0.025492,E3 2LL,Tower Hamlets 004G,E01032784,Tower Hamlets 004,E02000867,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_471,"Hewison Street, Old Ford",BikePoint,51.533283,-0.028155,E3 2YH,Tower Hamlets 001A,E01004222,Tower Hamlets 001,E02000864,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_472,"Malmesbury Road, Bow",BikePoint,51.529452,-0.027616,E3 2FP,Tower Hamlets 004G,E01032784,Tower Hamlets 004,E02000867,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_473,"Millharbour, Millwall",BikePoint,51.496137,-0.019355,E14 8PP,Tower Hamlets 032E,E01032774,Tower Hamlets 032,E02006853,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_474,"Gascoyne Road, Victoria Park",BikePoint,51.541515,-0.038557,E9 7FA,Hackney 022E,E01001845,Hackney 022,E02000366,Hackney Wick,E05009374,Hackney,E09000012
+BikePoints_475,"Lightermans Road, Millwall",BikePoint,51.499041,-0.020157,E14 9DD,Tower Hamlets 032C,E01032772,Tower Hamlets 032,E02006853,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_476,"Stebondale Street, Cubitt Town",BikePoint,51.489096,-0.009205,E14 3ER,Tower Hamlets 030C,E01004217,Tower Hamlets 030,E02000893,Island Gardens,E05009324,Tower Hamlets,E09000030
+BikePoints_477,"Spindrift Avenue, Millwall",BikePoint,51.49109,-0.018716,E14 9UX,Tower Hamlets 031D,E01004281,Tower Hamlets 031,E02000894,Island Gardens,E05009324,Tower Hamlets,E09000030
+BikePoints_478,"Stepney Green Station, Stepney",BikePoint,51.521889,-0.04667,E1 4DT,Tower Hamlets 011A,E01004207,Tower Hamlets 011,E02000874,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_479,"Pott Street, Bethnal Green",BikePoint,51.527152,-0.058005,E2 0EF,Tower Hamlets 013D,E01004211,Tower Hamlets 013,E02000876,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_480,"Flamborough Street, Limehouse",BikePoint,51.512871,-0.038986,E14 7NT,Tower Hamlets 019C,E01004286,Tower Hamlets 019,E02000882,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_481,"Saunders Ness Road, Cubitt Town",BikePoint,51.487129,-0.009001,E14 3PS,Tower Hamlets 030D,E01004218,Tower Hamlets 030,E02000893,Island Gardens,E05009324,Tower Hamlets,E09000030
+BikePoints_482,"Exhibition Road Museums 2, South Kensington",BikePoint,51.495947,-0.173689,SW7 2HW,Kensington and Chelsea 014A,E01002821,Kensington and Chelsea 014,E02000590,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_483,"Albert Gardens, Stepney",BikePoint,51.51328,-0.047784,E1 0HQ,Tower Hamlets 016C,E01004289,Tower Hamlets 016,E02000879,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_484,"Bromley High Street, Bow",BikePoint,51.528828,-0.013258,E3 3BB,Tower Hamlets 008A,E01004235,Tower Hamlets 008,E02000871,Bromley North,E05009321,Tower Hamlets,E09000030
+BikePoints_485,"Old Ford Road, Bethnal Green",BikePoint,51.531127,-0.048017,E2 9JF,Tower Hamlets 002D,E01004201,Tower Hamlets 002,E02000865,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_486,"Granby Street, Shoreditch",BikePoint,51.525645,-0.069543,E2 6DL,Tower Hamlets 006C,E01004315,Tower Hamlets 006,E02000869,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_487,"Canton Street, Poplar",BikePoint,51.511811,-0.025626,E14 6JW,Tower Hamlets 024A,E01004252,Tower Hamlets 024,E02000887,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_488,"Reardon Street, Wapping",BikePoint,51.506946,-0.058681,E1W 3AQ,Tower Hamlets 026D,E01004296,Tower Hamlets 026,E02000889,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_489,"Christian Street, Whitechapel",BikePoint,51.513074,-0.064094,E1 1RU,Tower Hamlets 021A,E01004319,Tower Hamlets 021,E02000884,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_490,"Pennington Street, Wapping",BikePoint,51.508622,-0.065006,E1W 2AD,Tower Hamlets 026B,E01004294,Tower Hamlets 026,E02000889,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_491,"Queen Mary's, Mile End",BikePoint,51.522507,-0.041378,E1 4RG,Tower Hamlets 010A,E01004261,Tower Hamlets 010,E02000873,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_492,"Maplin Street, Mile End",BikePoint,51.525501,-0.032267,E3 4PR,Tower Hamlets 014A,E01004269,Tower Hamlets 014,E02000877,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_494,"South Quay East, Canary Wharf",BikePoint,51.50196,-0.016251,E14 5GW,Tower Hamlets 033B,E01032771,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_495,"Bow Church Station, Bow",BikePoint,51.528169,-0.018703,E3 3AH,Tower Hamlets 008C,E01004237,Tower Hamlets 008,E02000871,Bromley North,E05009321,Tower Hamlets,E09000030
+BikePoints_496,"Devons Road, Bow",BikePoint,51.52512,-0.015578,E3 3YX,Tower Hamlets 008B,E01004236,Tower Hamlets 008,E02000871,Bromley North,E05009321,Tower Hamlets,E09000030
+BikePoints_497,"Merchant Street, Bow",BikePoint,51.526578,-0.027581,E3 4LW,Tower Hamlets 012E,E01004268,Tower Hamlets 012,E02000875,Bromley North,E05009321,Tower Hamlets,E09000030
+BikePoints_498,"Bow Road Station, Bow",BikePoint,51.527058,-0.025296,E3 4NA,Tower Hamlets 012D,E01004267,Tower Hamlets 012,E02000875,Bromley North,E05009321,Tower Hamlets,E09000030
+BikePoints_499,"Furze Green, Bow",BikePoint,51.519265,-0.021345,E3 3RW,Tower Hamlets 012C,E01004242,Tower Hamlets 012,E02000875,Bromley South,E05009322,Tower Hamlets,E09000030
+BikePoints_500,"Ansell House, Stepney",BikePoint,51.520019,-0.05438,E1 3AP,Tower Hamlets 017A,E01004322,Tower Hamlets 017,E02000880,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_501,"Cephas Street, Bethnal Green",BikePoint,51.522561,-0.054883,E1 4HH,Tower Hamlets 011B,E01004209,Tower Hamlets 011,E02000874,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_502,"Bonner Gate, Victoria Park",BikePoint,51.53341,-0.049591,E2 9JQ,Tower Hamlets 002D,E01004201,Tower Hamlets 002,E02000865,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_503,"Cleveland Way, Stepney",BikePoint,51.520893,-0.051394,E1 4UH,Tower Hamlets 013C,E01004208,Tower Hamlets 013,E02000876,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_504,"St. John's Park, Cubitt Town",BikePoint,51.496454,-0.009506,E14 3JD,Tower Hamlets 030A,E01004214,Tower Hamlets 030,E02000893,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_505,"Ackroyd Drive, Bow",BikePoint,51.520398,-0.026768,E3 4RQ,Tower Hamlets 014C,E01004271,Tower Hamlets 014,E02000877,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_506,"Bell Lane, Liverpool Street",BikePoint,51.517475,-0.075855,E1 7LQ,Tower Hamlets 015B,E01004307,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_507,"Clarkson Street, Bethnal Green",BikePoint,51.528692,-0.059091,E2 0BD,Tower Hamlets 005C,E01004203,Tower Hamlets 005,E02000868,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_508,"Fournier Street, Whitechapel",BikePoint,51.519362,-0.074431,E1 6BG,Tower Hamlets 015B,E01004307,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_509,"Fore Street, Guildhall",BikePoint,51.517842,-0.090075,EC2Y 5EJ,City of London 001B,E01000002,City of London 001,E02000001,Coleman Street,E05009299,City of London,E09000001
+BikePoints_510,"Westferry DLR, Limehouse",BikePoint,51.509303,-0.025996,E14 8SE,Tower Hamlets 033A,E01004277,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_511,"Sutton Street, Shadwell",BikePoint,51.511066,-0.053558,E1 0AU,Tower Hamlets 025C,E01004302,Tower Hamlets 025,E02000888,Shadwell,E05009332,Tower Hamlets,E09000030
+BikePoints_512,"Pritchard's Road, Bethnal Green",BikePoint,51.532091,-0.06142,E2 6GE,Tower Hamlets 005A,E01004200,Tower Hamlets 005,E02000868,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_513,"Watney Market, Stepney",BikePoint,51.514222,-0.055656,E1 2HR,Tower Hamlets 017D,E01004326,Tower Hamlets 017,E02000880,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_514,"Portman Square, Marylebone",BikePoint,51.516204,-0.155525,W1H 6LH,Westminster 011B,E01004714,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_515,"Russell Gardens, Olympia",BikePoint,51.500088,-0.211316,W14 8EZ,Kensington and Chelsea 009B,E01002866,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_516,"Chrisp Street Market, Poplar",BikePoint,51.5112,-0.014438,E14 0EB,Tower Hamlets 020B,E01004244,Tower Hamlets 020,E02000883,Lansbury,E05009325,Tower Hamlets,E09000030
+BikePoints_517,"Ford Road, Old Ford",BikePoint,51.532513,-0.033085,E3 5NS,Tower Hamlets 003E,E01004234,Tower Hamlets 003,E02000866,Bow West,E05009320,Tower Hamlets,E09000030
+BikePoints_518,"Antill Road, Mile End",BikePoint,51.528224,-0.037471,E3 5BS,Tower Hamlets 003B,E01004230,Tower Hamlets 003,E02000866,Bow West,E05009320,Tower Hamlets,E09000030
+BikePoints_519,"Teviot Street, Poplar",BikePoint,51.518811,-0.011662,E14 6PY,Tower Hamlets 018C,E01004248,Tower Hamlets 018,E02000881,Lansbury,E05009325,Tower Hamlets,E09000030
+BikePoints_781,"Victoria & Albert Museum, South Kensington",BikePoint,51.495898,-0.173009,SW7 2SL,Kensington and Chelsea 014A,E01002821,Kensington and Chelsea 014,E02000590,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_782,"Halford Road, West Kensington",BikePoint,51.483911,-0.197609,SW6 1LB,Hammersmith and Fulham 017D,E01001883,Hammersmith and Fulham 017,E02000388,Fulham Broadway,E05000254,Hammersmith and Fulham,E09000013
+BikePoints_783,"Monier Road, Hackney Wick",BikePoint,51.540311,-0.02163,E3 2ZQ,Tower Hamlets 001C,E01004224,Tower Hamlets 001,E02000864,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_784,"East Village, Queen Elizabeth Olympic Park",BikePoint,51.546326,-0.009935,E20 1DD,Newham 013G,E01033583,Newham 013,E02000726,Stratford and New Town,E05000492,Newham,E09000025
+BikePoints_786,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",BikePoint,51.549369,-0.015717,E20 1FQ,Newham 013G,E01033583,Newham 013,E02000726,Stratford and New Town,E05000492,Newham,E09000025
+BikePoints_787,"Timber Lodge, Queen Elizabeth Olympic Park",BikePoint,51.546805,-0.014691,E20 1FT,Newham 013G,E01033583,Newham 013,E02000726,Stratford and New Town,E05000492,Newham,E09000025
+BikePoints_788,"Copper Box Arena, Queen Elizabeth Olympic Park",BikePoint,51.544909,-0.020542,E20 3AX,Hackney 018D,E01001849,Hackney 018,E02000362,Hackney Wick,E05009374,Hackney,E09000012
+BikePoints_789,"Podium, Queen Elizabeth Olympic Park",BikePoint,51.538718,-0.011889,E20 2AD,Newham 013E,E01033578,Newham 013,E02000726,Stratford and New Town,E05000492,Newham,E09000025
+BikePoints_790,"Stratford Station, Stratford",BikePoint,51.541793,-0.00481,E20 1NN,Newham 013G,E01033583,Newham 013,E02000726,Stratford and New Town,E05000492,Newham,E09000025
+BikePoints_792,"Blackfriars Road, Southwark",BikePoint,51.505461,-0.10454,SE1 8NL,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_793,"Cromer Street, Bloomsbury",BikePoint,51.528279,-0.119558,WC1H 8LR,Camden 024D,E01000940,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_794,"Victoria Rise, Clapham Common",BikePoint,51.461376,-0.147804,SW4 0AA,Lambeth 013E,E01003042,Lambeth 013,E02000630,Clapham Town,E05000419,Lambeth,E09000022
+BikePoints_795,"Euston Square Gardens, Euston",BikePoint,51.527068,-0.131861,NW1 2EF,Camden 023B,E01000945,Camden 023,E02000188,Regent's Park,E05000142,Camden,E09000007
+BikePoints_796,"Coram Street, Bloomsbury",BikePoint,51.524,-0.126409,WC1N 1HB,Camden 026C,E01000852,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_797,"Ossulston Street, Somers Town",BikePoint,51.5293,-0.128279,NW1 1JJ,Camden 022E,E01000956,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_798,"Birkenhead Street, King's Cross",BikePoint,51.530199,-0.122299,WC1H 8BW,Camden 024C,E01000939,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_799,"Kings Gate House, Westminster",BikePoint,51.497698,-0.137598,SW1E 6SA,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_800,"Sopwith Way, Battersea Park",BikePoint,51.481121,-0.149035,SW11 8NY,Wandsworth 002H,E01033132,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_801,"Lavington Street, Bankside",BikePoint,51.505224,-0.098031,SE1 0HR,Southwark 002A,E01003927,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_802,"Albert Square, Stockwell",BikePoint,51.47659,-0.118256,SW8 1HY,Lambeth 006E,E01003125,Lambeth 006,E02000623,Stockwell,E05000429,Lambeth,E09000022
+BikePoints_803,"Southwark Street, Bankside",BikePoint,51.505409,-0.098341,SE1 0JA,Southwark 002A,E01003927,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_804,"Good's Way, King's Cross",BikePoint,51.534667,-0.125078,N1C 4UR,Camden 022B,E01000953,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_805,"The Metropolitan, Portobello",BikePoint,51.520509,-0.200804,W11 1AB,Kensington and Chelsea 001C,E01002854,Kensington and Chelsea 001,E02000577,Golborne,E05009396,Kensington and Chelsea,E09000020
+BikePoints_806,"Handyside Street, King's Cross",BikePoint,51.53724,-0.124807,N1C 4DY,Camden 022B,E01000953,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_807,"Bevington Road West, North Kensington",BikePoint,51.5212,-0.208888,W10 5TL,Kensington and Chelsea 001D,E01002855,Kensington and Chelsea 001,E02000577,Golborne,E05009396,Kensington and Chelsea,E09000020
+BikePoints_808,"Gauden Road, Clapham",BikePoint,51.464995,-0.130908,SW4 6LE,Lambeth 012D,E01003090,Lambeth 012,E02000629,Larkhall,E05000425,Lambeth,E09000022
+BikePoints_809,"Lincoln's Inn Fields, Holborn",BikePoint,51.516277,-0.118272,WC2A 3JX,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_810,"Tate Modern, Bankside",BikePoint,51.506725,-0.098807,SE1 9JA,Southwark 002D,E01003935,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_811,"Westferry Circus, Canary Wharf",BikePoint,51.505703,-0.027772,E14 8RR,Tower Hamlets 033A,E01004277,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_812,"Here East North, Queen Elizabeth Olympic Park",BikePoint,51.548731,-0.022606,E15 2HB,Hackney 018A,E01001846,Hackney 018,E02000362,Hackney Wick,E05009374,Hackney,E09000012
+BikePoints_813,"New Spring Gardens Walk, Vauxhall",BikePoint,51.487807,-0.122759,SE1 7TP,Lambeth 003E,E01003109,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_814,"Clapham Road, Lingham Street, Stockwell",BikePoint,51.471433,-0.12367,SW9 9BQ,Lambeth 010B,E01003093,Lambeth 010,E02000627,Larkhall,E05000425,Lambeth,E09000022
+BikePoints_815,"Lambeth Palace Road, Waterloo",BikePoint,51.500089,-0.116628,SE1 7EU,Lambeth 036A,E01003013,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_816,"Here East South, Queen Elizabeth Olympic Park",BikePoint,51.546532,-0.020597,E15 2GY,Hackney 018D,E01001849,Hackney 018,E02000362,Hackney Wick,E05009374,Hackney,E09000012
+BikePoints_817,"Riverlight South, Nine Elms",BikePoint,51.481335,-0.138212,SW11 8BP,Wandsworth 002B,E01004562,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_818,"Westminster Pier, Westminster",BikePoint,51.501513,-0.123823,SW1A 2JH,Westminster 020C,E01004733,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_819,"Belvedere Road 2, South Bank",BikePoint,51.50621,-0.114842,SE1 8TL,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_820,"Victory Place, Walworth",BikePoint,51.492807,-0.091938,SE17 1PG,Southwark 012F,E01032722,Southwark 012,E02000818,North Walworth,E05011107,Southwark,E09000028
+BikePoints_821,"Battersea Power Station, Battersea Park",BikePoint,51.483507,-0.147714,SW11 8NN,Wandsworth 002F,E01033098,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_826,"Allington Street, Victoria",BikePoint,51.496863,-0.142943,SW1E 5LA,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_827,"Cranmer Road, Stockwell",BikePoint,51.479601,-0.111471,SW9 6DD,Lambeth 005E,E01003183,Lambeth 005,E02000622,Vassall,E05000436,Lambeth,E09000022
+BikePoints_828,"Normandy Road, Stockwell",BikePoint,51.473874,-0.11258,SW9 6AT,Lambeth 007C,E01003185,Lambeth 007,E02000624,Vassall,E05000436,Lambeth,E09000022
+BikePoints_829,"Wynne Road, Stockwell",BikePoint,51.469217,-0.112686,SW9 6AB,Lambeth 011D,E01003059,Lambeth 011,E02000628,Ferndale,E05000421,Lambeth,E09000022
+BikePoints_830,"Sidney Road, Stockwell",BikePoint,51.469202,-0.119022,SW9 9PX,Lambeth 011E,E01003060,Lambeth 011,E02000628,Ferndale,E05000421,Lambeth,E09000022
+BikePoints_831,"St John's Crescent, Brixton",BikePoint,51.466232,-0.113179,SW9 7BW,Lambeth 011E,E01003060,Lambeth 011,E02000628,Ferndale,E05000421,Lambeth,E09000022
+BikePoints_832,"Ferndale Road, Brixton",BikePoint,51.464019,-0.115781,SW9 8FR,Lambeth 011F,E01003061,Lambeth 011,E02000628,Ferndale,E05000421,Lambeth,E09000022
+BikePoints_833,"Saltoun Road, Brixton",BikePoint,51.460232,-0.115375,SW2 1BX,Lambeth 016B,E01003050,Lambeth 016,E02000633,Coldharbour,E05000420,Lambeth,E09000022
+BikePoints_834,"Gas Holders, Battersea Park",BikePoint,51.477966,-0.147857,SW11 8NE,Wandsworth 002F,E01033098,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_835,"Farringdon Street, Holborn",BikePoint,51.516785,-0.104947,EC4A 4AN,City of London 001G,E01032740,City of London 001,E02000001,Farringdon Within,E05009304,City of London,E09000001
+BikePoints_836,"York Way, Kings Cross",BikePoint,51.541596,-0.125441,N7 9AT,Islington 015A,E01002708,Islington 015,E02000568,Caledonian,E05000368,Islington,E09000019
+BikePoints_839,"Sea Containers, South Bank",BikePoint,51.508033,-0.106823,SE1 9AE,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_840,"George Row, Bermondsey",BikePoint,51.498585,-0.068981,SE16 4ED,Southwark 004E,E01004028,Southwark 004,E02000810,North Bermondsey,E05011106,Southwark,E09000028
+BikePoints_841,"Tower Wharf, Bermondsey",BikePoint,51.500845,-0.074704,SE1 2XS,Southwark 003E,E01004027,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_842,"Temple Gardens, Temple",BikePoint,51.510981,-0.108322,EC4Y 0HA,City of London 001G,E01032740,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_844,"Canada Water Station, Rotherhithe",BikePoint,51.498439,-0.04915,SE16 7AN,Southwark 007B,E01004031,Southwark 007,E02000813,Rotherhithe,E05011112,Southwark,E09000028
+BikePoints_845,"Bermondsey Station, Bermondsey",BikePoint,51.497995,-0.063471,SE16 4SN,Southwark 004D,E01004023,Southwark 004,E02000810,North Bermondsey,E05011106,Southwark,E09000028
+BikePoints_1,"River Street , Clerkenwell",BikePoint,51.529163,-0.10997,EC1R 1XN,Islington 021E,E01002729,Islington 021,E02000574,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_2,"Phillimore Gardens, Kensington",BikePoint,51.499606,-0.197574,W8 7RA,Kensington and Chelsea 011E,E01002865,Kensington and Chelsea 011,E02000587,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_3,"Christopher Street, Liverpool Street",BikePoint,51.521283,-0.084605,EC2A 2BU,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_4,"St. Chad's Street, King's Cross",BikePoint,51.530059,-0.120973,WC1X 8QS,Camden 024B,E01000938,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_5,"Sedding Street, Sloane Square",BikePoint,51.49313,-0.156876,SW1W 8EE,Kensington and Chelsea 012C,E01002859,Kensington and Chelsea 012,E02000588,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_6,"Broadcasting House, Marylebone",BikePoint,51.518117,-0.144228,W1B 1HR,Westminster 013D,E01004765,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_7,"Charlbert Street, St. John's Wood",BikePoint,51.5343,-0.168074,NW8 7BT,Westminster 001C,E01004724,Westminster 001,E02000960,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_8,"Maida Vale, Maida Vale",BikePoint,51.529857,-0.183486,W9 1QP,Westminster 007E,E01004709,Westminster 007,E02000966,Maida Vale,E05000640,Westminster,E09000033
+BikePoints_9,"New Globe Walk, Bankside",BikePoint,51.507385,-0.09644,SE1 9AR,Southwark 002D,E01003935,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_10,"Park Street, Bankside",BikePoint,51.505974,-0.092754,SE1 9EQ,Southwark 002D,E01003935,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_11,"Brunswick Square, Bloomsbury",BikePoint,51.523951,-0.122502,WC1N 1AW,Camden 025A,E01000853,Camden 025,E02000190,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_12,"Malet Street, Bloomsbury",BikePoint,51.52168,-0.130431,WC1E 7HX,Camden 026A,E01000850,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_13,"Scala Street, Fitzrovia",BikePoint,51.519914,-0.136039,W1T 2NU,Camden 026B,E01000851,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_14,"Belgrove Street , King's Cross",BikePoint,51.529943,-0.123616,NW1 2SD,Camden 024C,E01000939,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_15,"Great Russell Street, Bloomsbury",BikePoint,51.517727,-0.127854,WC1B 3JQ,Camden 028A,E01000855,Camden 028,E02000193,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_16,"Cartwright Gardens , Bloomsbury",BikePoint,51.526357,-0.125979,WC1H 9EP,Camden 025E,E01000943,Camden 025,E02000190,King's Cross,E05000141,Camden,E09000007
+BikePoints_17,"Hatton Wall, Holborn",BikePoint,51.521661,-0.109006,EC1N 8LX,Camden 027B,E01000916,Camden 027,E02000192,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_18,"Drury Lane, Covent Garden",BikePoint,51.51477,-0.122219,WC2B 5AD,Camden 028C,E01000918,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_19,"Taviton Street, Bloomsbury",BikePoint,51.52505,-0.131161,WC1H 0PY,Camden 026C,E01000852,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_20,"Drummond Street , Euston",BikePoint,51.527326,-0.136052,NW1 2HB,Camden 023B,E01000945,Camden 023,E02000188,Regent's Park,E05000142,Camden,E09000007
+BikePoints_22,"Northington Street , Holborn",BikePoint,51.522264,-0.114079,WC1N 2JE,Camden 027D,E01000920,Camden 027,E02000192,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_23,"Red Lion Square, Holborn",BikePoint,51.519435,-0.119123,WC1R 4RB,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_24,"British Museum, Bloomsbury",BikePoint,51.51908,-0.124678,WC1B 3DA,Camden 028A,E01000855,Camden 028,E02000193,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_25,"Doric Way , Somers Town",BikePoint,51.528833,-0.13225,NW1 1LH,Camden 022D,E01000955,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_26,"Ampton Street , Clerkenwell",BikePoint,51.52728,-0.118295,WC1X 8EB,Camden 024D,E01000940,Camden 024,E02000189,King's Cross,E05000141,Camden,E09000007
+BikePoints_27,"Bouverie Street, Temple",BikePoint,51.513821,-0.107927,EC4Y 8AY,City of London 001G,E01032740,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_28,"Bolsover Street, Fitzrovia",BikePoint,51.523518,-0.143613,W1W 5JL,Westminster 013A,E01004715,Westminster 013,E02000972,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_29,"Hereford Road, Bayswater",BikePoint,51.513735,-0.193487,W2 4PW,Westminster 014B,E01004654,Westminster 014,E02000973,Bayswater,E05000631,Westminster,E09000033
+BikePoints_30,"Windsor Terrace, Hoxton",BikePoint,51.529154,-0.093421,N1 7TJ,Hackney 026A,E01001779,Hackney 026,E02000370,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_31,"Fanshaw Street, Hoxton",BikePoint,51.529537,-0.083353,N1 6BS,Hackney 027I,E01033711,Hackney 027,E02000371,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_32,"Leonard Circus , Shoreditch",BikePoint,51.524696,-0.084439,EC2A 4LT,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_33,"Central House, Aldgate",BikePoint,51.515231,-0.07015,E1 7PE,Tower Hamlets 021D,E01004325,Tower Hamlets 021,E02000884,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_34,"Pancras Road, King's Cross",BikePoint,51.534123,-0.129386,NW1 1UH,Camden 022B,E01000953,Camden 022,E02000187,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_36,"De Vere Gardens, Kensington",BikePoint,51.501737,-0.18498,SW7 5BB,Kensington and Chelsea 010D,E01002891,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_37,"Penywern Road, Earl's Court",BikePoint,51.491593,-0.192369,SW5 9AD,Kensington and Chelsea 017B,E01002849,Kensington and Chelsea 017,E02000593,Earl's Court,E05009395,Kensington and Chelsea,E09000020
+BikePoints_38,"Abingdon Villas, Kensington",BikePoint,51.497387,-0.197245,W8 6ED,Kensington and Chelsea 011A,E01002813,Kensington and Chelsea 011,E02000587,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_39,"Shoreditch High Street, Shoreditch",BikePoint,51.526377,-0.07813,E1 6JE,Hackney 027F,E01033706,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_40,"Commercial Street, Shoreditch",BikePoint,51.52127,-0.075578,E1 6BJ,Tower Hamlets 015B,E01004307,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_41,"Pindar Street, Liverpool Street",BikePoint,51.520955,-0.083493,EC2A 4ES,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_42,"Wenlock Road , Hoxton",BikePoint,51.530991,-0.093903,N1 7GG,Hackney 026A,E01001779,Hackney 026,E02000370,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_43,"Crawford Street, Marylebone",BikePoint,51.52026,-0.157183,W1U 6AY,Westminster 008C,E01004712,Westminster 008,E02000967,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_44,"Bruton Street, Mayfair",BikePoint,51.510736,-0.144165,W1J 6PU,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_45,"Boston Place, Marylebone",BikePoint,51.522511,-0.162298,NW1 6QH,Westminster 008A,E01004659,Westminster 008,E02000967,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_46,"Nesham Street, Wapping",BikePoint,51.507131,-0.06691,E1W 1YY,Tower Hamlets 027B,E01004293,Tower Hamlets 027,E02000890,St Katharine's & Wapping,E05009330,Tower Hamlets,E09000030
+BikePoints_47,"Warwick Avenue Station, Maida Vale",BikePoint,51.523344,-0.183846,W9 1DX,Westminster 007B,E01004703,Westminster 007,E02000966,Little Venice,E05000639,Westminster,E09000033
+BikePoints_48,"Godliman Street, St. Paul's",BikePoint,51.512484,-0.099141,EC4V 5BD,City of London 001F,E01032739,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_49,"Curzon Street, Mayfair",BikePoint,51.507069,-0.145904,W1J 5HE,Westminster 018D,E01004761,Westminster 018,E02000977,West End,E05000649,Westminster,E09000033
+BikePoints_50,"East Road, Hoxton",BikePoint,51.528673,-0.087459,N1 6DG,Hackney 027I,E01033711,Hackney 027,E02000371,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_51,"Finsbury Library , Finsbury",BikePoint,51.526717,-0.104298,EC1V 4NB,Islington 022E,E01002725,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_52,"Roscoe Street, St. Luke's",BikePoint,51.522954,-0.094934,EC1Y 0UA,Islington 023E,E01002706,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_53,"Grafton Street, Mayfair",BikePoint,51.509992,-0.143495,W1J 6HZ,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_54,"Golden Lane, Barbican",BikePoint,51.521747,-0.094475,EC1Y 0QT,Islington 023D,E01002704,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_55,"Finsbury Circus, Liverpool Street",BikePoint,51.517075,-0.086685,EC2M 5PG,City of London 001F,E01032739,City of London 001,E02000001,Coleman Street,E05009299,City of London,E09000001
+BikePoints_56,"Paddington Street, Marylebone",BikePoint,51.520583,-0.154701,W1U 5BJ,Westminster 011D,E01004717,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_57,"Guilford Street , Bloomsbury",BikePoint,51.523346,-0.120202,WC1N 1EH,Camden 027A,E01000915,Camden 027,E02000192,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_58,"New Inn Yard, Shoreditch",BikePoint,51.524526,-0.079248,EC2A 3EA,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_60,"Lisson Grove, St. John's Wood",BikePoint,51.526448,-0.17219,NW8 8LF,Westminster 009F,E01033598,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_61,"Great Dover Street, The Borough",BikePoint,51.497382,-0.089446,SE1 4YF,Southwark 009A,E01003936,Southwark 009,E02000815,Chaucer,E05011098,Southwark,E09000028
+BikePoints_62,"Cotton Garden Estate, Kennington",BikePoint,51.490757,-0.106323,SE11 4HJ,Lambeth 002B,E01003108,Lambeth 002,E02000619,Prince's,E05000427,Lambeth,E09000022
+BikePoints_63,"Murray Grove , Hoxton",BikePoint,51.53089,-0.089782,N1 7FB,Hackney 026A,E01001779,Hackney 026,E02000370,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_64,"William IV Street, Strand",BikePoint,51.509462,-0.124749,WC2R 0QN,Westminster 018A,E01004734,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_66,"Holborn Circus, Holborn",BikePoint,51.51795,-0.108657,EC1N 2DY,Camden 027C,E01000917,Camden 027,E02000192,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_67,"Hatton Garden, Holborn",BikePoint,51.518825,-0.108028,EC1N 8AT,Camden 027B,E01000916,Camden 027,E02000192,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_68,"Theobald's Road , Holborn",BikePoint,51.520596,-0.116688,WC1R 4HD,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_69,"Euston Road, Euston",BikePoint,51.526236,-0.134407,NW1 2FB,Camden 023B,E01000945,Camden 023,E02000188,Regent's Park,E05000142,Camden,E09000007
+BikePoints_70,"Calshot Street , King's Cross",BikePoint,51.53136,-0.117069,N1 9JP,Islington 019B,E01002697,Islington 019,E02000572,Barnsbury,E05000366,Islington,E09000019
+BikePoints_71,"Newgate Street , St. Paul's",BikePoint,51.515418,-0.09885,EC4M 7DZ,City of London 001F,E01032739,City of London 001,E02000001,Bread Street,E05009293,City of London,E09000001
+BikePoints_72,"Farringdon Lane, Clerkenwell",BikePoint,51.52352,-0.10834,EC1R 3BP,Islington 022D,E01002724,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_73,"Old Street Station, St. Luke's",BikePoint,51.52548,-0.089659,EC1V 9FL,Islington 023D,E01002704,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_74,"Vauxhall Cross, Vauxhall",BikePoint,51.485917,-0.124469,SW8 2FH,Lambeth 004G,E01033208,Lambeth 004,E02000621,Oval,E05000426,Lambeth,E09000022
+BikePoints_75,"Torrens Street, Angel",BikePoint,51.532199,-0.10548,EC1V 1NQ,Islington 020E,E01002803,Islington 020,E02000573,St Peter's,E05000380,Islington,E09000019
+BikePoints_76,"Longford Street, The Regent's Park",BikePoint,51.525595,-0.144083,NW1 3PE,Camden 023A,E01000944,Camden 023,E02000188,Regent's Park,E05000142,Camden,E09000007
+BikePoints_77,"Russell Square Station, Bloomsbury",BikePoint,51.523418,-0.124121,WC1N 1LE,Camden 028A,E01000855,Camden 028,E02000193,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_78,"Sadlers Sports Centre, Finsbury",BikePoint,51.524868,-0.099489,EC1V 7ER,Islington 022G,E01033489,Islington 022,E02000575,Bunhill,E05000367,Islington,E09000019
+BikePoints_79,"Arundel Street, Temple",BikePoint,51.511726,-0.113855,WC2R 3DX,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_80,"Webber Street , Southwark",BikePoint,51.500693,-0.102091,SE1 0SD,Southwark 034A,E01003930,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_81,"Great Titchfield Street, Fitzrovia",BikePoint,51.520253,-0.141327,W1W 6XY,Westminster 013D,E01004765,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_82,"Chancery Lane, Holborn",BikePoint,51.514274,-0.111257,WC2A 1PU,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_83,"Panton Street, West End",BikePoint,51.509639,-0.13151,SW1Y 4EL,Westminster 018A,E01004734,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_84,"Breams Buildings, Holborn",BikePoint,51.515937,-0.111778,WC2A 1DL,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_336,"Concert Hall Approach 2, South Bank",BikePoint,51.504942,-0.115533,SE1 7DY,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_337,"Pembridge Villas, Notting Hill",BikePoint,51.511084,-0.197524,W11 3ES,Kensington and Chelsea 006C,E01002884,Kensington and Chelsea 006,E02000582,Pembridge,E05009400,Kensington and Chelsea,E09000020
+BikePoints_338,"Wellington Street , Strand",BikePoint,51.511756,-0.119643,WC2E 7DN,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_339,"Risinghill Street, Angel",BikePoint,51.533319,-0.111781,N1 9UL,Islington 019B,E01002697,Islington 019,E02000572,Barnsbury,E05000366,Islington,E09000019
+BikePoints_340,"Bank of England Museum, Bank",BikePoint,51.514441,-0.087587,EC2N 2AX,City of London 001F,E01032739,City of London 001,E02000001,Walbrook,E05009312,City of London,E09000001
+BikePoints_341,"Craven Street, Strand",BikePoint,51.508103,-0.126021,WC2N 5RJ,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_343,"London Zoo Car Park, The Regent's Park",BikePoint,51.536922,-0.150181,NW1 7SR,Camden 018E,E01000862,Camden 018,E02000183,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_344,"Goswell Road (City Uni), Finsbury",BikePoint,51.528246,-0.101026,EC1V 7AS,Islington 022B,E01002707,Islington 022,E02000575,Bunhill,E05000367,Islington,E09000019
+BikePoints_345,"Flood Street, Chelsea",BikePoint,51.488023,-0.166878,SW3 5SP,Kensington and Chelsea 018A,E01002899,Kensington and Chelsea 018,E02000594,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_347,"Lower Marsh, Waterloo",BikePoint,51.500139,-0.113936,SE1 7NT,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_348,"Grosvenor Square, Mayfair",BikePoint,51.51217,-0.150481,W1K 4AG,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_349,"St. George Street, Mayfair",BikePoint,51.51196,-0.142783,W1S 2FN,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_350,"Queen's Gate, Kensington Gardens",BikePoint,51.501715,-0.179854,SW7 2ET,Westminster 019B,E01004688,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_351,"Macclesfield Rd, St Lukes",BikePoint,51.529423,-0.097122,EC1V 8AE,Islington 023B,E01002702,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_352,"Vauxhall Street, Vauxhall",BikePoint,51.486965,-0.116625,SE11 5RG,Lambeth 003E,E01003109,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_353,"Greycoat Street , Westminster",BikePoint,51.494591,-0.134234,SW1P 2PB,Westminster 020D,E01004744,Westminster 020,E02000979,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_354,"Northumberland Avenue, Strand",BikePoint,51.506767,-0.123702,WC2N 5DE,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_355,"Clapham Common Station, Clapham Common",BikePoint,51.461388,-0.139221,SW4 7AB,Lambeth 017B,E01003032,Lambeth 017,E02000634,Clapham Common,E05000418,Lambeth,E09000022
+BikePoints_356,"South Kensington Station, South Kensington",BikePoint,51.494412,-0.173881,SW7 2LT,Kensington and Chelsea 014A,E01002821,Kensington and Chelsea 014,E02000590,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_357,"Howland Street, Fitzrovia",BikePoint,51.520994,-0.139016,W1T 4JZ,Camden 026B,E01000851,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_358,"High Holborn , Covent Garden",BikePoint,51.516226,-0.124826,WC1A 1AB,Camden 028D,E01000919,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_359,"Butler Place, Westminster",BikePoint,51.497829,-0.13544,SW1E 6AS,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_360,"Howick Place, Westminster",BikePoint,51.496753,-0.138733,SW1E 6RD,Westminster 020E,E01004748,Westminster 020,E02000979,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_361,"Waterloo Station 2, Waterloo",BikePoint,51.503919,-0.113426,SE1 8SQ,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_362,"Royal College Street, Camden Town",BikePoint,51.536264,-0.133952,NW1 0RY,Camden 019E,E01000959,Camden 019,E02000184,St Pancras and Somers Town,E05000143,Camden,E09000007
+BikePoints_363,"Lord's, St. John's Wood",BikePoint,51.529121,-0.171185,NW8 7HG,Westminster 003B,E01004725,Westminster 003,E02000962,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_364,"Store Street, Bloomsbury",BikePoint,51.519572,-0.13214,WC1E 7DU,Camden 026A,E01000850,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_365,"City Road, Angel",BikePoint,51.530344,-0.100168,EC1V 1LA,Islington 020E,E01002803,Islington 020,E02000573,St Peter's,E05000380,Islington,E09000019
+BikePoints_366,"Millennium Hotel, Mayfair",BikePoint,51.510919,-0.151126,W1K 2HR,Westminster 018D,E01004761,Westminster 018,E02000977,West End,E05000649,Westminster,E09000033
+BikePoints_367,"Harrowby Street, Marylebone",BikePoint,51.517372,-0.164207,W1H 5PQ,Westminster 012B,E01004658,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_368,"Harriet Street, Knightsbridge",BikePoint,51.500241,-0.15934,SW1X 9JW,Kensington and Chelsea 012A,E01002818,Kensington and Chelsea 012,E02000588,Brompton & Hans Town,E05009389,Kensington and Chelsea,E09000020
+BikePoints_370,"Paddington Green, Paddington",BikePoint,51.520205,-0.174593,W2 1BJ,Westminster 015F,E01033593,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_371,"King Edward Walk, Waterloo",BikePoint,51.49775,-0.10988,SE1 7HT,Lambeth 036B,E01003014,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_372,"Sardinia Street, Holborn",BikePoint,51.515208,-0.117863,WC2A 3NA,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_374,"Waterloo Station 1, Waterloo",BikePoint,51.504027,-0.113864,SE1 8SQ,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_375,"Kensington Town Hall, Kensington",BikePoint,51.501945,-0.194392,W8 9SB,Kensington and Chelsea 008B,E01002825,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_376,"Millbank Tower, Pimlico",BikePoint,51.491884,-0.125674,SW1P 4QP,Westminster 021C,E01004745,Westminster 021,E02000980,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_377,"Waterloo Bridge, South Bank",BikePoint,51.505354,-0.113656,SE1 8TX,Lambeth 036C,E01003016,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_378,"Natural History Museum, South Kensington",BikePoint,51.495592,-0.179077,SW7 5JP,Kensington and Chelsea 010E,E01002892,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_379,"Turquoise Island, Notting Hill",BikePoint,51.514311,-0.200838,W11 2SE,Kensington and Chelsea 006E,E01002886,Kensington and Chelsea 006,E02000582,Colville,E05009392,Kensington and Chelsea,E09000020
+BikePoints_380,"Stanhope Gate, Mayfair",BikePoint,51.506864,-0.150666,W1K 1LN,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_381,"Charlotte Street, Fitzrovia",BikePoint,51.51953,-0.135777,W1T 2NR,Camden 026B,E01000851,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_382,"Farm Street, Mayfair",BikePoint,51.509351,-0.147449,W1J 5ND,Westminster 018D,E01004761,Westminster 018,E02000977,West End,E05000649,Westminster,E09000033
+BikePoints_383,"Frith Street, Soho",BikePoint,51.513103,-0.131213,W1D 5JN,Westminster 013B,E01004763,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_384,"Marloes Road, Kensington",BikePoint,51.496481,-0.192404,W8 6LG,Kensington and Chelsea 011A,E01002813,Kensington and Chelsea 011,E02000587,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_386,"Moor Street, Soho",BikePoint,51.513527,-0.13011,W1D 5NG,Westminster 013B,E01004763,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_387,"Fire Brigade Pier, Vauxhall",BikePoint,51.493699,-0.121394,SE1 7SR,Lambeth 002E,E01003112,Lambeth 002,E02000619,Prince's,E05000427,Lambeth,E09000022
+BikePoints_388,"Southampton Street, Strand",BikePoint,51.510701,-0.121723,WC2E 7HG,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_389,"Upper Grosvenor Street, Mayfair",BikePoint,51.51013,-0.155757,W1K 7PE,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_390,"Buxton Street 1, Shoreditch",BikePoint,51.521776,-0.068856,E1 5EH,Tower Hamlets 009D,E01004317,Tower Hamlets 009,E02000872,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_391,"Clifford Street, Mayfair",BikePoint,51.510662,-0.142345,W1S 4JY,Westminster 018D,E01004761,Westminster 018,E02000977,West End,E05000649,Westminster,E09000033
+BikePoints_392,"Imperial College, Knightsbridge",BikePoint,51.499428,-0.179702,SW7 2BW,Westminster 019B,E01004688,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_393,"Snow Hill, Farringdon",BikePoint,51.517334,-0.103604,EC1A 2AL,City of London 001G,E01032740,City of London 001,E02000001,Farringdon Without,E05009305,City of London,E09000001
+BikePoints_394,"Aberdeen Place, St. John's Wood",BikePoint,51.524826,-0.176268,NW8 8JN,Westminster 009F,E01033598,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_396,"Shouldham Street, Marylebone",BikePoint,51.51809,-0.163609,W1H 5FE,Westminster 012E,E01004663,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_397,"Devonshire Terrace, Bayswater",BikePoint,51.51348,-0.17977,W2 3DR,Westminster 016E,E01004700,Westminster 016,E02000975,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_398,"Holland Park, Kensington",BikePoint,51.502319,-0.200742,W8 7QT,Kensington and Chelsea 008B,E01002825,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_399,"Brick Lane Market, Shoreditch",BikePoint,51.522617,-0.071653,E1 6SE,Tower Hamlets 009D,E01004317,Tower Hamlets 009,E02000872,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_400,"George Street, Marylebone",BikePoint,51.517703,-0.154106,W1U 7DS,Westminster 011B,E01004714,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_401,"Columbia Road, Shoreditch",BikePoint,51.528187,-0.075375,E2 7NP,Tower Hamlets 006A,E01004311,Tower Hamlets 006,E02000869,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_402,"Penfold Street, Marylebone",BikePoint,51.522892,-0.171681,NW8 8PW,Westminster 009H,E01033602,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_403,"George Place Mews, Marylebone",BikePoint,51.516892,-0.158249,W1H 7HN,Westminster 012A,E01004657,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_404,"Palace Gate, Kensington Gardens",BikePoint,51.502042,-0.1844,SW7 5BB,Kensington and Chelsea 010D,E01002891,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_405,"Gloucester Road Station, South Kensington",BikePoint,51.494185,-0.18267,SW7 4SZ,Kensington and Chelsea 016C,E01002835,Kensington and Chelsea 016,E02000592,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_408,"Sun Street, Liverpool Street",BikePoint,51.520009,-0.083935,EC2M 2PY,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_409,"Strata, Elephant & Castle",BikePoint,51.493146,-0.099828,SE1 6EB,Southwark 014G,E01032719,Southwark 014,E02000820,North Walworth,E05011107,Southwark,E09000028
+BikePoints_410,"Edgware Road Station, Marylebone",BikePoint,51.519968,-0.169774,NW1 5BZ,Westminster 009J,E01033604,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_411,"Rotherhithe Roundabout, Rotherhithe",BikePoint,51.499169,-0.055846,SE16 4JR,Southwark 007D,E01004034,Southwark 007,E02000813,Rotherhithe,E05011112,Southwark,E09000028
+BikePoints_412,"Cleaver Street, Kennington",BikePoint,51.488105,-0.110121,SE11 4DR,Lambeth 003C,E01003106,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_419,"Chelsea Bridge, Pimlico",BikePoint,51.485821,-0.149004,SW1V 4BE,Westminster 023F,E01033597,Westminster 023,E02000982,Churchill,E05000633,Westminster,E09000033
+BikePoints_420,"Southwark Station 1, Southwark",BikePoint,51.504043,-0.105312,SE1 8BS,Southwark 034D,E01032583,Southwark 034,E02006802,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_421,"Southwark Station 2, Southwark",BikePoint,51.504044,-0.104778,SE1 8NJ,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_423,"Eaton Square (South), Belgravia",BikePoint,51.494561,-0.153933,SW1W 9AR,Westminster 019A,E01004687,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_424,"Ebury Bridge, Pimlico",BikePoint,51.490491,-0.149186,SW1W 8SL,Westminster 023C,E01004667,Westminster 023,E02000982,Churchill,E05000633,Westminster,E09000033
+BikePoints_426,"Vincent Street, Pimlico",BikePoint,51.493072,-0.129925,SW1P 4HB,Westminster 021D,E01004746,Westminster 021,E02000980,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_427,"Cheapside, Bank",BikePoint,51.51397,-0.09294,EC2V 6BP,City of London 001F,E01032739,City of London 001,E02000001,Cordwainer,E05009300,City of London,E09000001
+BikePoints_428,"Exhibition Road, Knightsbridge",BikePoint,51.499917,-0.174554,SW7 2BX,Westminster 019B,E01004688,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_430,"South Parade, Chelsea",BikePoint,51.48902,-0.17524,SW3 6EH,Kensington and Chelsea 019C,E01002910,Kensington and Chelsea 019,E02000595,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_431,"Crinan Street, King's Cross",BikePoint,51.534474,-0.122203,N1 9SQ,Islington 021B,E01002711,Islington 021,E02000574,Caledonian,E05000368,Islington,E09000019
+BikePoints_432,"Exhibition Road Museums 1, South Kensington",BikePoint,51.496468,-0.173796,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_697,"Charlotte Terrace, Angel",BikePoint,51.536392,-0.112721,N1 0FB,Islington 017C,E01002700,Islington 017,E02000570,Barnsbury,E05000366,Islington,E09000019
+BikePoints_698,"Shoreditch Court, Haggerston",BikePoint,51.539083,-0.070329,E8 4EU,Hackney 020E,E01001819,Hackney 020,E02000364,London Fields,E05009381,Hackney,E09000012
+BikePoints_699,"Belford House, Haggerston",BikePoint,51.536654,-0.07023,E8 4SG,Hackney 024E,E01001820,Hackney 024,E02000368,Haggerston,E05009375,Hackney,E09000012
+BikePoints_700,"Battersea Church Road, Battersea",BikePoint,51.476964,-0.174347,SW11 3NG,Wandsworth 001D,E01004583,Wandsworth 001,E02000923,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_701,"Vicarage Crescent, Battersea",BikePoint,51.472876,-0.176267,SW11 3LH,Wandsworth 004E,E01033099,Wandsworth 004,E02000926,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_702,"Durant Street, Bethnal Green",BikePoint,51.528681,-0.06555,E2 7DT,Tower Hamlets 009B,E01004313,Tower Hamlets 009,E02000872,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_703,"St. Bride Street, Holborn",BikePoint,51.515059,-0.105344,EC4A 4AD,City of London 001G,E01032740,City of London 001,E02000001,Farringdon Within,E05009304,City of London,E09000001
+BikePoints_704,"Mexfield Road, East Putney",BikePoint,51.45682,-0.202802,SW15 2SD,Wandsworth 010B,E01004511,Wandsworth 010,E02000932,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_705,"Upper Richmond Road, Putney",BikePoint,51.459715,-0.212145,SW15 2FU,Wandsworth 014E,E01004507,Wandsworth 014,E02000936,East Putney,E05000613,Wandsworth,E09000032
+BikePoints_706,"Snowsfields, London Bridge",BikePoint,51.502153,-0.083632,SE1 3TE,Southwark 003I,E01032646,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_707,"Barons Court Station, West Kensington",BikePoint,51.490217,-0.215087,W6 8RL,Hammersmith and Fulham 014A,E01001889,Hammersmith and Fulham 014,E02000385,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_708,"Disraeli Road, Putney",BikePoint,51.46161,-0.216145,SW15 2GN,Wandsworth 010E,E01004609,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_709,"Montserrat Road , Putney",BikePoint,51.463211,-0.21555,SW15 1SS,Wandsworth 010E,E01004609,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_710,"Albert Bridge Road, Battersea Park",BikePoint,51.474392,-0.163347,SW11 4HQ,Wandsworth 001A,E01004560,Wandsworth 001,E02000923,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_711,"Everington Street, Fulham",BikePoint,51.483356,-0.216305,SW6 7PL,Hammersmith and Fulham 016A,E01001886,Hammersmith and Fulham 016,E02000387,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_712,"Mile End Stadium, Mile End",BikePoint,51.518541,-0.034903,E14 7SX,Tower Hamlets 019B,E01004285,Tower Hamlets 019,E02000882,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_713,"Hawley Crescent, Camden Town",BikePoint,51.541007,-0.14326,NW1 8NP,Camden 021A,E01000863,Camden 021,E02000186,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_714,"Stewart's Road, Wandsworth Road",BikePoint,51.473116,-0.137235,SW8 4HH,Wandsworth 002B,E01004562,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_715,"Aylward Street, Stepney",BikePoint,51.51563,-0.049067,E1 0PB,Tower Hamlets 016C,E01004289,Tower Hamlets 016,E02000879,Stepney Green,E05009334,Tower Hamlets,E09000030
+BikePoints_716,"Stainsby Road , Poplar",BikePoint,51.515427,-0.023565,E14 6JN,Tower Hamlets 024A,E01004252,Tower Hamlets 024,E02000887,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_717,"Dunston Road , Haggerston",BikePoint,51.536585,-0.075885,E8 4FA,Hackney 025E,E01001773,Hackney 025,E02000369,Haggerston,E05009375,Hackney,E09000012
+BikePoints_718,"Ada Street, Hackney Central",BikePoint,51.535716,-0.060291,E8 4QN,Hackney 023G,E01033712,Hackney 023,E02000367,London Fields,E05009381,Hackney,E09000012
+BikePoints_719,"Victoria Park Road, Hackney Central",BikePoint,51.536424,-0.054162,E9 7NJ,Hackney 023B,E01001837,Hackney 023,E02000367,Victoria,E05009386,Hackney,E09000012
+BikePoints_720,"Star Road, West Kensington",BikePoint,51.487244,-0.205279,W14 9QA,Hammersmith and Fulham 015D,E01001911,Hammersmith and Fulham 015,E02000386,North End,E05000258,Hammersmith and Fulham,E09000013
+BikePoints_721,"Wendon Street, Old Ford",BikePoint,51.536039,-0.026262,E3 2LZ,Tower Hamlets 004E,E01032764,Tower Hamlets 004,E02000867,Bow East,E05009319,Tower Hamlets,E09000030
+BikePoints_722,"Finnis Street, Bethnal Green",BikePoint,51.524583,-0.058631,E2 6JW,Tower Hamlets 013B,E01004206,Tower Hamlets 013,E02000876,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_723,"Stephendale Road, Sands End",BikePoint,51.46822,-0.190346,SW6 2PD,Hammersmith and Fulham 025D,E01001938,Hammersmith and Fulham 025,E02000396,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_724,"Alma Road, Wandsworth",BikePoint,51.457991,-0.184806,SW18 2HE,Wandsworth 012B,E01004510,Wandsworth 012,E02000934,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_725,"Walworth Square, Walworth",BikePoint,51.491327,-0.096518,SE17 1LH,Southwark 012F,E01032722,Southwark 012,E02000818,North Walworth,E05011107,Southwark,E09000028
+BikePoints_726,"Alfreda Street, Battersea Park",BikePoint,51.47505,-0.150908,SW11 5FH,Wandsworth 002C,E01004563,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_727,"Chesilton Road, Fulham",BikePoint,51.475698,-0.205876,SW6 5RX,Hammersmith and Fulham 021C,E01001949,Hammersmith and Fulham 021,E02000392,Town,E05000264,Hammersmith and Fulham,E09000013
+BikePoints_728,"Putney Bridge Road, East Putney",BikePoint,51.461999,-0.20624,SW15 2NZ,Wandsworth 010G,E01033135,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_729,"St. Peter's Terrace, Fulham",BikePoint,51.478939,-0.208485,SW6 7JT,Hammersmith and Fulham 019B,E01001901,Hammersmith and Fulham 019,E02000390,Munster,E05000257,Hammersmith and Fulham,E09000013
+BikePoints_730,"Bridge Avenue, Hammersmith",BikePoint,51.492084,-0.229116,W6 9JP,Hammersmith and Fulham 013B,E01001894,Hammersmith and Fulham 013,E02000384,Hammersmith Broadway,E05000256,Hammersmith and Fulham,E09000013
+BikePoints_731,"Michael Road, Walham Green",BikePoint,51.477276,-0.18921,SW6 2YB,Hammersmith and Fulham 020D,E01001923,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_732,"Duke Street Hill, London Bridge",BikePoint,51.506304,-0.087262,SE1 2SY,Southwark 003E,E01004027,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_733,"Park Lane, Mayfair",BikePoint,51.505426,-0.150817,W1K 1RA,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_734,"Plough Terrace, Clapham Junction",BikePoint,51.462305,-0.175407,SW11 2BJ,Wandsworth 012E,E01004551,Wandsworth 012,E02000934,Northcote,E05000619,Wandsworth,E09000032
+BikePoints_735,"Grant Road East, Clapham Junction",BikePoint,51.464894,-0.173029,SW11 2FR,Wandsworth 007B,E01004537,Wandsworth 007,E02000929,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_736,"Queensdale Road, Shepherd's Bush",BikePoint,51.50659,-0.216104,W11 4TP,Hammersmith and Fulham 004B,E01001944,Hammersmith and Fulham 004,E02000375,Shepherd's Bush Green,E05000263,Hammersmith and Fulham,E09000013
+BikePoints_737,"Fulham Broadway, Walham Green",BikePoint,51.479932,-0.194116,SW6 2DH,Hammersmith and Fulham 020A,E01001920,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_738,"Imperial Road, Sands End",BikePoint,51.475142,-0.187278,SW6 2BX,Hammersmith and Fulham 020D,E01001923,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_739,"Hortensia Road, West Brompton",BikePoint,51.481765,-0.185273,SW10 0QR,Kensington and Chelsea 020E,E01002912,Kensington and Chelsea 020,E02000596,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_740,"Sirdar Road, Avondale",BikePoint,51.510928,-0.214594,W11 4EE,Kensington and Chelsea 005A,E01002870,Kensington and Chelsea 005,E02000581,Notting Dale,E05009399,Kensington and Chelsea,E09000020
+BikePoints_741,"Freston Road, Avondale",BikePoint,51.512981,-0.219486,W10 6TT,Kensington and Chelsea 003B,E01002877,Kensington and Chelsea 003,E02000579,Notting Dale,E05009399,Kensington and Chelsea,E09000020
+BikePoints_742,"Blenheim Crescent, Ladbroke Grove",BikePoint,51.515108,-0.208565,W11 1NT,Kensington and Chelsea 007D,E01002874,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_743,"Oxford Road, Putney",BikePoint,51.460792,-0.212607,SW15 2LH,Wandsworth 010C,E01004602,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_744,"Ingrave Street, Clapham Junction",BikePoint,51.467454,-0.172293,SW11 2SE,Wandsworth 008B,E01004536,Wandsworth 008,E02000930,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_745,"Upcerne Road, West Chelsea",BikePoint,51.478169,-0.182435,SW10 0SF,Kensington and Chelsea 021B,E01002841,Kensington and Chelsea 021,E02000597,Chelsea Riverside,E05009391,Kensington and Chelsea,E09000020
+BikePoints_746,"Lots Road, West Chelsea",BikePoint,51.479573,-0.179038,SW10 0QJ,Kensington and Chelsea 021B,E01002841,Kensington and Chelsea 021,E02000597,Chelsea Riverside,E05009391,Kensington and Chelsea,E09000020
+BikePoints_747,"Ormonde Gate, Chelsea",BikePoint,51.487964,-0.161765,SW3 4ET,Kensington and Chelsea 018C,E01002901,Kensington and Chelsea 018,E02000594,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_748,"Hertford Road, De Beauvoir Town",BikePoint,51.537277,-0.079201,N1 5EW,Hackney 025C,E01001754,Hackney 025,E02000369,De Beauvoir,E05009371,Hackney,E09000012
+BikePoints_749,"Haggerston Road, Haggerston",BikePoint,51.539328,-0.074284,E8 4EX,Hackney 020E,E01001819,Hackney 020,E02000364,London Fields,E05009381,Hackney,E09000012
+BikePoints_750,"Culvert Road, Battersea",BikePoint,51.471095,-0.15785,SW11 5AX,Wandsworth 003A,E01004539,Wandsworth 003,E02000925,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_751,"Newton Street, Covent Garden",BikePoint,51.516128,-0.120909,WC2B 5DG,Camden 028C,E01000918,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_754,"Grenfell Road, Avondale",BikePoint,51.5129,-0.214762,W11 4BN,Kensington and Chelsea 005E,E01002881,Kensington and Chelsea 005,E02000581,Notting Dale,E05009399,Kensington and Chelsea,E09000020
+BikePoints_755,"The Vale, Chelsea",BikePoint,51.485121,-0.174971,SW3 5UT,Kensington and Chelsea 019D,E01002911,Kensington and Chelsea 019,E02000595,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_756,"Prince of Wales Drive, Battersea Park",BikePoint,51.475153,-0.159169,SW11 4EX,Wandsworth 001A,E01004560,Wandsworth 001,E02000923,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_757,"Harcourt Terrace, West Brompton",BikePoint,51.487958,-0.187404,SW10 9LA,Kensington and Chelsea 020C,E01002896,Kensington and Chelsea 020,E02000596,Redcliffe,E05009402,Kensington and Chelsea,E09000020
+BikePoints_758,"Westbourne Park Road, Portobello",BikePoint,51.51787,-0.201005,W11 1EA,Kensington and Chelsea 004A,E01002829,Kensington and Chelsea 004,E02000580,Colville,E05009392,Kensington and Chelsea,E09000020
+BikePoints_759,"Broadley Terrace, Marylebone",BikePoint,51.524561,-0.165668,NW1 6PA,Westminster 008A,E01004659,Westminster 008,E02000967,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_761,"Humbolt Road, Fulham",BikePoint,51.483217,-0.21186,W6 8QL,Hammersmith and Fulham 016A,E01001886,Hammersmith and Fulham 016,E02000387,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_762,"Storey's Gate, Westminster",BikePoint,51.500703,-0.129698,SW1P 3AT,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_763,"Mile End Park Leisure Centre, Mile End",BikePoint,51.520597,-0.032566,E3 4HG,Tower Hamlets 014B,E01004270,Tower Hamlets 014,E02000877,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_764,"St. John's Road, Clapham Junction",BikePoint,51.462392,-0.168292,SW11 1PR,Wandsworth 008C,E01004552,Wandsworth 008,E02000930,Northcote,E05000619,Wandsworth,E09000032
+BikePoints_765,"Ranelagh Gardens, Fulham",BikePoint,51.467601,-0.206827,SW6 3SD,Hammersmith and Fulham 024B,E01001916,Hammersmith and Fulham 024,E02000395,Palace Riverside,E05000259,Hammersmith and Fulham,E09000013
+BikePoints_766,"Ram Street, Wandsworth",BikePoint,51.457529,-0.192165,SW18 1UD,Wandsworth 010A,E01004509,Wandsworth 010,E02000932,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_767,"Santos Road, Wandsworth",BikePoint,51.457059,-0.200806,SW18 1RX,Wandsworth 010B,E01004511,Wandsworth 010,E02000932,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_768,"Clapham Common North Side, Clapham Common",BikePoint,51.461343,-0.159322,SW4 9SL,Wandsworth 009C,E01004586,Wandsworth 009,E02000931,Shaftesbury,E05000623,Wandsworth,E09000032
+BikePoints_769,"Sandilands Road, Walham Green",BikePoint,51.473611,-0.191803,SW6 2TE,Hammersmith and Fulham 023A,E01001935,Hammersmith and Fulham 023,E02000394,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_770,"Gwendwr Road, West Kensington",BikePoint,51.491026,-0.209121,W14 9BJ,Hammersmith and Fulham 012F,E01001872,Hammersmith and Fulham 012,E02000383,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_771,"Rifle Place, Avondale",BikePoint,51.509224,-0.216016,W11 4DR,Kensington and Chelsea 005A,E01002870,Kensington and Chelsea 005,E02000581,Notting Dale,E05009399,Kensington and Chelsea,E09000020
+BikePoints_772,"Binfield Road, Stockwell",BikePoint,51.472509,-0.122831,SW4 6TA,Lambeth 008D,E01003126,Lambeth 008,E02000625,Stockwell,E05000429,Lambeth,E09000022
+BikePoints_773,"Tallis Street, Temple",BikePoint,51.511891,-0.107349,EC4Y 0BS,City of London 001G,E01032740,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_774,"Hurlingham Park, Parsons Green",BikePoint,51.470131,-0.20464,SW6 3NR,Hammersmith and Fulham 024C,E01001926,Hammersmith and Fulham 024,E02000395,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_775,"Little Brook Green, Brook Green",BikePoint,51.496664,-0.223868,W6 7BG,Hammersmith and Fulham 010D,E01001869,Hammersmith and Fulham 010,E02000381,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_776,"Abyssinia Close, Clapham Junction",BikePoint,51.460333,-0.167029,SW11 1NX,Wandsworth 008C,E01004552,Wandsworth 008,E02000930,Northcote,E05000619,Wandsworth,E09000032
+BikePoints_777,"Limburg Road, Clapham Junction",BikePoint,51.461923,-0.165297,SW11 1HD,Wandsworth 008C,E01004552,Wandsworth 008,E02000930,Northcote,E05000619,Wandsworth,E09000032
+BikePoints_779,"Houndsditch, Aldgate",BikePoint,51.514449,-0.077178,EC3A 7DH,City of London 001E,E01000005,City of London 001,E02000001,Aldgate,E05009289,City of London,E09000001
+BikePoints_780,"Imperial Wharf Station, Sands End",BikePoint,51.474665,-0.183165,SW6 2PY,Hammersmith and Fulham 023C,E01001939,Hammersmith and Fulham 023,E02000394,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_168,"Argyll Road, Kensington",BikePoint,51.500401,-0.195455,W8 7DT,Kensington and Chelsea 011E,E01002865,Kensington and Chelsea 011,E02000587,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_169,"Porchester Place, Paddington",BikePoint,51.514746,-0.165164,W2 2AH,Westminster 015A,E01004680,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_170,"Hardwick Street, Clerkenwell",BikePoint,51.527842,-0.108068,EC1R 4RG,Islington 022F,E01002726,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_171,"Collingham Gardens, Earl's Court",BikePoint,51.491615,-0.186753,SW5 0HW,Kensington and Chelsea 013B,E01002834,Kensington and Chelsea 013,E02000589,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_172,"Sumner Place, South Kensington",BikePoint,51.491211,-0.173715,SW7 3NT,Kensington and Chelsea 016B,E01002822,Kensington and Chelsea 016,E02000592,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_173,"Waterloo Road, South Bank",BikePoint,51.50486,-0.113001,SE1 8WA,Lambeth 036C,E01003016,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_174,"Strand, Strand",BikePoint,51.512582,-0.115057,WC2R 1EA,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_175,"Worship Street, Shoreditch",BikePoint,51.521668,-0.079608,EC2A 2FA,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_176,"Gloucester Terrace, Bayswater",BikePoint,51.517919,-0.188098,W2 6AN,Westminster 014D,E01004656,Westminster 014,E02000973,Bayswater,E05000631,Westminster,E09000033
+BikePoints_177,"Ashley Place, Victoria",BikePoint,51.49616,-0.140947,SW1P 1BX,Westminster 020E,E01004748,Westminster 020,E02000979,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_178,"Warwick Square, Pimlico",BikePoint,51.489856,-0.141923,SW1V 2AQ,Westminster 022E,E01004753,Westminster 022,E02000981,Warwick,E05000647,Westminster,E09000033
+BikePoints_180,"North Audley Street, Mayfair",BikePoint,51.512911,-0.153645,W1K 6RQ,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_181,"Belgrave Square, Belgravia",BikePoint,51.499412,-0.152317,SW1X 8PA,Westminster 019D,E01004690,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_182,"Bell Street , Marylebone",BikePoint,51.522029,-0.165842,NW1 6TL,Westminster 009I,E01033603,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_183,"Riverlight North, Nine Elms",BikePoint,51.482362,-0.136123,SW11 8AT,Wandsworth 002B,E01004562,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_184,"Portland Place, Marylebone",BikePoint,51.520715,-0.145211,W1B 1NJ,Westminster 011A,E01004713,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_185,"Alderney Street, Pimlico",BikePoint,51.488057,-0.140741,SW1V 3EJ,Westminster 022E,E01004753,Westminster 022,E02000981,Warwick,E05000647,Westminster,E09000033
+BikePoints_186,"South Wharf Road, Paddington",BikePoint,51.517335,-0.17581,W2 1BL,Westminster 015G,E01033594,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_187,"Queen's Gate (South), South Kensington",BikePoint,51.492479,-0.178433,SW7 5AG,Kensington and Chelsea 016C,E01002835,Kensington and Chelsea 016,E02000592,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_188,"Nutford Place, Marylebone",BikePoint,51.516517,-0.164393,W1H 5YN,Westminster 012B,E01004658,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_189,"Claremont Square, Angel",BikePoint,51.531666,-0.109914,N1 9PR,Islington 021A,E01002695,Islington 021,E02000574,Barnsbury,E05000366,Islington,E09000019
+BikePoints_190,"Rampayne Street, Pimlico",BikePoint,51.489975,-0.132845,SW1V 2TB,Westminster 024C,E01004737,Westminster 024,E02000983,Tachbrook,E05000645,Westminster,E09000033
+BikePoints_191,"Hyde Park Corner, Hyde Park",BikePoint,51.503117,-0.15352,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_192,"Wardour Street, Soho",BikePoint,51.512515,-0.133201,W1D 4JF,Westminster 013B,E01004763,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_193,"Bankside Mix, Bankside",BikePoint,51.505817,-0.100186,SE1 0SW,Southwark 002A,E01003927,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_194,"Hop Exchange, The Borough",BikePoint,51.504627,-0.091773,SE1 1TU,Southwark 002B,E01003929,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_195,"Milroy Walk, South Bank",BikePoint,51.507244,-0.106237,SE1 9LQ,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_196,"Union Street, The Borough",BikePoint,51.503688,-0.098497,SE1 0LL,Southwark 002A,E01003927,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_197,"Stamford Street, South Bank",BikePoint,51.505569,-0.111606,SE1 9NQ,Lambeth 036C,E01003016,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_199,"Great Tower Street, Monument",BikePoint,51.510484,-0.082989,EC3M 1HD,City of London 001F,E01032739,City of London 001,E02000001,Billingsgate,E05009291,City of London,E09000001
+BikePoints_200,"LMU Commercial Road, Whitechapel",BikePoint,51.514924,-0.066078,E1 1LA,Tower Hamlets 021D,E01004325,Tower Hamlets 021,E02000884,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_201,"Dorset Square, Marylebone",BikePoint,51.522596,-0.161113,NW1 6QJ,Westminster 012D,E01004662,Westminster 012,E02000971,Bryanston and Dorset Square,E05000632,Westminster,E09000033
+BikePoints_202,"Leman Street, Aldgate",BikePoint,51.512363,-0.069542,E1 8AJ,Tower Hamlets 021F,E01032767,Tower Hamlets 021,E02000884,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_203,"West Smithfield Rotunda, Farringdon",BikePoint,51.518218,-0.100791,EC1A 7BE,City of London 001G,E01032740,City of London 001,E02000001,Farringdon Without,E05009305,City of London,E09000001
+BikePoints_204,"Margery Street, Clerkenwell",BikePoint,51.526599,-0.112432,WC1X 0HR,Islington 022F,E01002726,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_206,"New Road 1 , Whitechapel",BikePoint,51.518154,-0.062697,E1 1HJ,Tower Hamlets 021D,E01004325,Tower Hamlets 021,E02000884,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_207,"Grosvenor Crescent, Belgravia",BikePoint,51.501352,-0.153194,SW1X 7EZ,Westminster 019E,E01004691,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_208,"Mallory Street, Marylebone",BikePoint,51.525051,-0.166304,NW8 8SR,Westminster 009A,E01004670,Westminster 009,E02000968,Church Street,E05000634,Westminster,E09000033
+BikePoints_210,"Hinde Street, Marylebone",BikePoint,51.516814,-0.151926,W1U 3AB,Westminster 011B,E01004714,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_211,"Cadogan Place, Knightsbridge",BikePoint,51.494645,-0.158105,SW1X 9BS,Kensington and Chelsea 012C,E01002859,Kensington and Chelsea 012,E02000588,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_212,"Campden Hill Road, Notting Hill",BikePoint,51.506584,-0.199004,W8 7JF,Kensington and Chelsea 008B,E01002825,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_213,"Wellington Arch, Hyde Park",BikePoint,51.50274,-0.149569,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_214,"Endsleigh Gardens, Euston",BikePoint,51.526838,-0.130504,WC1H 0HT,Camden 026C,E01000852,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_215,"Moorfields, Moorgate",BikePoint,51.519069,-0.088285,EC2M 6XQ,City of London 001F,E01032739,City of London 001,E02000001,Coleman Street,E05009299,City of London,E09000001
+BikePoints_216,"Old Brompton Road, South Kensington",BikePoint,51.490945,-0.18119,SW7 3RW,Kensington and Chelsea 016E,E01002837,Kensington and Chelsea 016,E02000592,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_217,"Wormwood Street, Liverpool Street",BikePoint,51.516154,-0.082422,EC2M 3AL,City of London 001F,E01032739,City of London 001,E02000001,Cornhill,E05009301,City of London,E09000001
+BikePoints_218,"St. Luke's Church, Chelsea",BikePoint,51.489716,-0.170194,SW3 6NP,Kensington and Chelsea 019E,E01002914,Kensington and Chelsea 019,E02000595,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_219,"Bramham Gardens, Earl's Court",BikePoint,51.490163,-0.190393,SW5 9AQ,Kensington and Chelsea 017D,E01002894,Kensington and Chelsea 017,E02000593,Redcliffe,E05009402,Kensington and Chelsea,E09000020
+BikePoints_220,"Chelsea Green, Chelsea",BikePoint,51.490664,-0.166485,SW3 3QZ,Kensington and Chelsea 014E,E01002862,Kensington and Chelsea 014,E02000590,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_221,"Horseferry Road, Westminster",BikePoint,51.494816,-0.130458,SW1P 2AD,Westminster 020C,E01004733,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_222,"Knightsbridge, Hyde Park",BikePoint,51.502757,-0.155349,SW1X 7NL,Westminster 019E,E01004691,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_223,"Rodney Road , Walworth",BikePoint,51.491484,-0.09022,SE17 1RA,Southwark 012B,E01003961,Southwark 012,E02000818,North Walworth,E05011107,Southwark,E09000028
+BikePoints_224,"Queensway, Kensington Gardens",BikePoint,51.51031,-0.187402,W2 4RH,Westminster 017C,E01004695,Westminster 017,E02000976,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_225,"Notting Hill Gate Station, Notting Hill",BikePoint,51.509353,-0.196422,W2 4EE,Kensington and Chelsea 006C,E01002884,Kensington and Chelsea 006,E02000582,Pembridge,E05009400,Kensington and Chelsea,E09000020
+BikePoints_226,"Charles II Street, West End",BikePoint,51.508446,-0.131961,SW1Y 4RW,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_227,"Great Percy Street, Clerkenwell",BikePoint,51.528915,-0.11548,WC1X 9QW,Islington 021E,E01002729,Islington 021,E02000574,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_228,"St. James's Square, St. James's",BikePoint,51.507424,-0.134621,SW1Y 4PD,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_229,"Whitehall Place, Strand",BikePoint,51.506543,-0.123179,WC2N 5DG,Westminster 020C,E01004733,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_230,"Poured Lines, Bankside",BikePoint,51.506692,-0.103137,SE1 0UP,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_231,"Queen's Gate (Central), South Kensington",BikePoint,51.493967,-0.178732,SW7 5JX,Kensington and Chelsea 016C,E01002835,Kensington and Chelsea 016,E02000592,Courtfield,E05009393,Kensington and Chelsea,E09000020
+BikePoints_232,"Carey Street, Holborn",BikePoint,51.51501,-0.112753,WC2A 2JF,Camden 028B,E01000914,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_233,"Pall Mall East, West End",BikePoint,51.50777,-0.130699,SW1Y 5AU,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_234,"Liverpool Road (N1 Centre), Angel",BikePoint,51.534504,-0.106992,N1 0PY,Islington 020B,E01002794,Islington 020,E02000573,St Mary's,E05000379,Islington,E09000019
+BikePoints_235,"Kennington Road  , Vauxhall",BikePoint,51.495718,-0.110889,SE11 6LS,Lambeth 036B,E01003014,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_236,"Fashion Street, Whitechapel",BikePoint,51.51838,-0.073438,E1 6PX,Tower Hamlets 015B,E01004307,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_237,"Dock Street, Wapping",BikePoint,51.509786,-0.068161,E1 8NA,Tower Hamlets 026B,E01004294,Tower Hamlets 026,E02000889,Whitechapel,E05009336,Tower Hamlets,E09000030
+BikePoints_238,"Frampton Street, Paddington",BikePoint,51.523353,-0.175116,W2 1NG,Westminster 009E,E01004702,Westminster 009,E02000968,Little Venice,E05000639,Westminster,E09000033
+BikePoints_239,"Warren Street Station, Euston",BikePoint,51.524438,-0.138019,W1T 5BA,Camden 026D,E01000854,Camden 026,E02000191,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_240,"Colombo Street, Southwark",BikePoint,51.505459,-0.105692,SE1 8EE,Southwark 002C,E01003934,Southwark 002,E02000808,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_242,"Beaumont Street, Marylebone",BikePoint,51.522008,-0.151359,W1U 5HS,Westminster 011C,E01004716,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_243,"Gloucester Street, Pimlico",BikePoint,51.490962,-0.139625,SW1V 2AP,Westminster 022B,E01004749,Westminster 022,E02000981,Warwick,E05000647,Westminster,E09000033
+BikePoints_244,"Earnshaw Street , Covent Garden",BikePoint,51.516118,-0.128585,WC2H 8LQ,Camden 028D,E01000919,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_245,"Grosvenor Road, Pimlico",BikePoint,51.485357,-0.142207,SW1V 3AE,Westminster 023D,E01004668,Westminster 023,E02000982,Churchill,E05000633,Westminster,E09000033
+BikePoints_246,"Berry Street, Clerkenwell",BikePoint,51.522853,-0.099994,EC1M 5PF,Islington 022G,E01033489,Islington 022,E02000575,Bunhill,E05000367,Islington,E09000019
+BikePoints_247,"St. John's Wood Church, The Regent's Park",BikePoint,51.530529,-0.167515,NW8 7RN,Westminster 003B,E01004725,Westminster 003,E02000962,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_248,"Triangle Car Park, Hyde Park",BikePoint,51.506451,-0.170279,W2 2AR,Westminster 019C,E01004689,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_249,"Harper Road, The Borough",BikePoint,51.498597,-0.096191,SE1 6AZ,Southwark 009B,E01003937,Southwark 009,E02000815,Chaucer,E05011098,Southwark,E09000028
+BikePoints_250,"Royal Avenue 1, Chelsea",BikePoint,51.489932,-0.162727,SW3 4ND,Kensington and Chelsea 018E,E01002903,Kensington and Chelsea 018,E02000594,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_251,"Brushfield Street, Liverpool Street",BikePoint,51.518908,-0.079249,EC2M 4QH,City of London 001F,E01032739,City of London 001,E02000001,Bishopsgate,E05009292,City of London,E09000001
+BikePoints_252,"Jubilee Gardens, South Bank",BikePoint,51.504636,-0.116542,SE1 7DY,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_520,"Bancroft Road, Bethnal Green",BikePoint,51.526041,-0.047218,E1 4BS,Tower Hamlets 007C,E01004263,Tower Hamlets 007,E02000870,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_521,"Driffield Road, Old Ford",BikePoint,51.534137,-0.037366,E3 5NP,Tower Hamlets 003E,E01004234,Tower Hamlets 003,E02000866,Bow West,E05009320,Tower Hamlets,E09000030
+BikePoints_522,"Clinton Road, Mile End",BikePoint,51.525941,-0.036017,E3 5AX,Tower Hamlets 003C,E01004232,Tower Hamlets 003,E02000866,Bow West,E05009320,Tower Hamlets,E09000030
+BikePoints_523,"Langdon Park, Poplar",BikePoint,51.51549,-0.013475,E14 6GN,Tower Hamlets 018B,E01004246,Tower Hamlets 018,E02000881,Lansbury,E05009325,Tower Hamlets,E09000030
+BikePoints_524,"Lancaster Gate , Bayswater",BikePoint,51.511654,-0.179668,W2 3NS,Westminster 016C,E01004694,Westminster 016,E02000975,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_525,"Blythe Road, Olympia",BikePoint,51.496927,-0.2135,W14 0HA,Hammersmith and Fulham 010E,E01001873,Hammersmith and Fulham 010,E02000381,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_526,"Lancaster Drive, Blackwall",BikePoint,51.503143,-0.008428,E14 9NY,Tower Hamlets 028D,E01004221,Tower Hamlets 028,E02000891,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_527,"Hansard Mews, Holland Park",BikePoint,51.503802,-0.215808,W11 4XX,Kensington and Chelsea 009E,E01002869,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_528,"Clarges Street, Mayfair",BikePoint,51.507326,-0.145827,W1J 5HE,Westminster 018D,E01004761,Westminster 018,E02000977,West End,E05000649,Westminster,E09000033
+BikePoints_529,"Manresa Road, Chelsea",BikePoint,51.486892,-0.170983,SW3 6NA,Kensington and Chelsea 019C,E01002910,Kensington and Chelsea 019,E02000595,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_530,"Newby Place, Poplar",BikePoint,51.508896,-0.012413,E14 0AX,Tower Hamlets 028B,E01004219,Tower Hamlets 028,E02000891,Poplar,E05009328,Tower Hamlets,E09000030
+BikePoints_531,"Twig Folly Bridge, Mile End",BikePoint,51.530326,-0.042744,E2 0SG,Tower Hamlets 010E,E01032785,Tower Hamlets 010,E02000873,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_532,"Jubilee Plaza, Canary Wharf",BikePoint,51.50357,-0.020068,E14 5AJ,Tower Hamlets 033B,E01032771,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_533,"Wellington Row, Bethnal Green",BikePoint,51.528222,-0.069743,E2 7BD,Tower Hamlets 009A,E01004312,Tower Hamlets 009,E02000872,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_534,"Goldsmith's Row, Haggerston",BikePoint,51.531864,-0.066035,E2 8GL,Tower Hamlets 005B,E01004202,Tower Hamlets 005,E02000868,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_535,"Gloucester Avenue, Camden Town",BikePoint,51.537349,-0.147154,NW1 7AT,Camden 018E,E01000862,Camden 018,E02000183,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_536,"Queensbridge Road, Haggerston",BikePoint,51.53385,-0.06992,E2 8PB,Hackney 024B,E01001774,Hackney 024,E02000368,Haggerston,E05009375,Hackney,E09000012
+BikePoints_537,"Old Montague Street, Whitechapel",BikePoint,51.51793,-0.067937,E1 5NW,Tower Hamlets 015D,E01004309,Tower Hamlets 015,E02000878,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_538,"Naval Row, Blackwall",BikePoint,51.508981,-0.00699,E14 9RY,Tower Hamlets 028F,E01032777,Tower Hamlets 028,E02000891,Poplar,E05009328,Tower Hamlets,E09000030
+BikePoints_539,"Hoxton Station, Hoxton",BikePoint,51.531091,-0.075901,E2 8FF,Hackney 027B,E01001777,Hackney 027,E02000371,Haggerston,E05009375,Hackney,E09000012
+BikePoints_540,"Albany Street, The Regent's Park",BikePoint,51.528302,-0.144466,NW1 4JG,Camden 021B,E01000946,Camden 021,E02000186,Regent's Park,E05000142,Camden,E09000007
+BikePoints_541,"Green Park Station, Mayfair",BikePoint,51.506613,-0.142844,W1J 9DZ,Westminster 018C,E01004736,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_542,"Salmon Lane, Limehouse",BikePoint,51.514115,-0.033828,E14 7PH,Tower Hamlets 023B,E01004254,Tower Hamlets 023,E02000886,Mile End,E05009327,Tower Hamlets,E09000030
+BikePoints_543,"Lansdowne Walk, Ladbroke Grove",BikePoint,51.509591,-0.204666,W11 3LT,Kensington and Chelsea 007E,E01002875,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_544,"Percival Street, Finsbury",BikePoint,51.526153,-0.102208,EC1V 0EB,Islington 023C,E01002703,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_545,"Arlington Road, Camden Town",BikePoint,51.539957,-0.145246,NW1 7HD,Camden 021A,E01000863,Camden 021,E02000186,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_546,"New Fetter Lane, Holborn",BikePoint,51.517428,-0.107987,EC1N 2HT,City of London 001G,E01032740,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_547,"East India DLR, Blackwall",BikePoint,51.509474,-0.002275,E14 9QN,Tower Hamlets 028F,E01032777,Tower Hamlets 028,E02000891,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_548,"Westminster Bridge Road, Elephant & Castle",BikePoint,51.498386,-0.107913,SE1 7JE,Southwark 034E,E01032584,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_549,"Gaywood  Street, Elephant & Castle",BikePoint,51.49605,-0.104193,SE1 6ER,Southwark 034C,E01003933,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_550,"Harford Street, Mile End",BikePoint,51.521564,-0.039264,E1 4SJ,Tower Hamlets 010C,E01004264,Tower Hamlets 010,E02000873,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_551,"Import Dock, Canary Wharf",BikePoint,51.505772,-0.01646,E14 5FU,Tower Hamlets 033A,E01004277,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_552,"Watney Street, Shadwell",BikePoint,51.511542,-0.056667,E1 2QE,Tower Hamlets 025C,E01004302,Tower Hamlets 025,E02000888,Shadwell,E05009332,Tower Hamlets,E09000030
+BikePoints_553,"Regent's Row , Haggerston",BikePoint,51.535678,-0.062546,E8 4PP,Hackney 023G,E01033712,Hackney 023,E02000367,Haggerston,E05009375,Hackney,E09000012
+BikePoints_554,"Aberfeldy Street, Poplar",BikePoint,51.513548,-0.005659,E14 0NU,Tower Hamlets 020A,E01004243,Tower Hamlets 020,E02000883,Lansbury,E05009325,Tower Hamlets,E09000030
+BikePoints_556,"Heron Quays DLR, Canary Wharf",BikePoint,51.502661,-0.021596,E14 4AD,Tower Hamlets 033B,E01032771,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_557,"King Edward Street, St Pauls",BikePoint,51.51601,-0.0985,EC1A 1HQ,City of London 001F,E01032739,City of London 001,E02000001,Farringdon Within,E05009304,City of London,E09000001
+BikePoints_558,"Page Street, Westminster",BikePoint,51.493978,-0.127554,SW1P 4PQ,Westminster 021C,E01004745,Westminster 021,E02000980,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_559,"Abbotsbury Road, Holland Park",BikePoint,51.501391,-0.205991,W14 8EL,Kensington and Chelsea 009D,E01002868,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_560,"Ladbroke Grove Central, Ladbroke Grove",BikePoint,51.511624,-0.205921,W11 2PD,Kensington and Chelsea 007E,E01002875,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_561,"Rectory Square, Stepney",BikePoint,51.518369,-0.043371,E1 3NU,Tower Hamlets 019A,E01004284,Tower Hamlets 019,E02000882,St Dunstan's,E05009329,Tower Hamlets,E09000030
+BikePoints_562,"Bury Place, Holborn",BikePoint,51.51746,-0.12335,WC1V 6PL,Camden 028C,E01000918,Camden 028,E02000193,Holborn and Covent Garden,E05000138,Camden,E09000007
+BikePoints_563,"Preston's Road, Cubitt Town",BikePoint,51.499286,-0.009152,E14 3NY,Tower Hamlets 028D,E01004221,Tower Hamlets 028,E02000891,Blackwall & Cubitt Town,E05009318,Tower Hamlets,E09000030
+BikePoints_564,"Somerset House, Strand",BikePoint,51.509943,-0.117619,WC2R 2PP,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_565,"Selby Street, Whitechapel",BikePoint,51.521905,-0.063386,E1 5BJ,Tower Hamlets 013A,E01004205,Tower Hamlets 013,E02000876,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_566,"Westfield Ariel Way, White City",BikePoint,51.509158,-0.224103,W12 7FB,Hammersmith and Fulham 004A,E01001943,Hammersmith and Fulham 004,E02000375,Shepherd's Bush Green,E05000263,Hammersmith and Fulham,E09000013
+BikePoints_568,"Bishop's Bridge Road West, Bayswater",BikePoint,51.51616,-0.18697,W2 6BB,Westminster 017A,E01004652,Westminster 017,E02000976,Bayswater,E05000631,Westminster,E09000033
+BikePoints_569,"Pitfield Street Central, Hoxton",BikePoint,51.53213,-0.08299,N1 6PZ,Hackney 027E,E01001784,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_570,"Upper Bank Street, Canary Wharf",BikePoint,51.503083,-0.017676,E14 5EE,Tower Hamlets 033B,E01032771,Tower Hamlets 033,E02006854,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_571,"Westfield Southern Terrace ,Shepherd's Bush",BikePoint,51.506256,-0.218337,W12 8AY,Hammersmith and Fulham 004A,E01001943,Hammersmith and Fulham 004,E02000375,Shepherd's Bush Green,E05000263,Hammersmith and Fulham,E09000013
+BikePoints_572,"Greenland Road, Camden Town",BikePoint,51.539099,-0.141728,NW1 0AS,Camden 019B,E01000861,Camden 019,E02000184,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_573,"Limerston Street, West Chelsea",BikePoint,51.485587,-0.18119,SW10 9TW,Kensington and Chelsea 020E,E01002912,Kensington and Chelsea 020,E02000596,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_574,"Eagle Wharf Road, Hoxton",BikePoint,51.53356,-0.09315,N1 7ER,Hackney 026C,E01001782,Hackney 026,E02000370,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_576,"Alpha Grove, Millwall",BikePoint,51.497304,-0.022793,E14 8PH,Tower Hamlets 032B,E01032770,Tower Hamlets 032,E02006853,Canary Wharf,E05009323,Tower Hamlets,E09000030
+BikePoints_577,"Globe Town Market, Bethnal Green",BikePoint,51.528869,-0.047548,E2 0RN,Tower Hamlets 007B,E01004260,Tower Hamlets 007,E02000870,Bethnal Green,E05009317,Tower Hamlets,E09000030
+BikePoints_578,"Hollybush Gardens, Bethnal Green",BikePoint,51.527607,-0.057133,E2 9QH,Tower Hamlets 005C,E01004203,Tower Hamlets 005,E02000868,St Peter's,E05009331,Tower Hamlets,E09000030
+BikePoints_579,"Queen Street 2, Bank",BikePoint,51.511246,-0.093051,EC4R 1BN,City of London 001F,E01032739,City of London 001,E02000001,Vintry,E05009311,City of London,E09000001
+BikePoints_580,"Doddington Grove, Kennington",BikePoint,51.486929,-0.102996,SE17 3RF,Southwark 014D,E01003998,Southwark 014,E02000820,Newington,E05011105,Southwark,E09000028
+BikePoints_581,"New Cavendish Street, Marylebone",BikePoint,51.519167,-0.147983,W1G 8TB,Westminster 011A,E01004713,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_583,"Abingdon Green, Westminster",BikePoint,51.49764,-0.125972,SW1P 3JU,Westminster 020C,E01004733,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_584,"Ilchester Gardens, Bayswater",BikePoint,51.51244,-0.19096,W2 4XW,Westminster 017B,E01004693,Westminster 017,E02000976,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_586,"Mudchute DLR, Cubitt Town",BikePoint,51.490645,-0.014582,E14 9US,Tower Hamlets 031B,E01004275,Tower Hamlets 031,E02000894,Island Gardens,E05009324,Tower Hamlets,E09000030
+BikePoints_587,"Monument Street, Monument",BikePoint,51.50964,-0.08497,EC3R 8LJ,City of London 001F,E01032739,City of London 001,E02000001,Bridge,E05009294,City of London,E09000001
+BikePoints_588,"Hoxton Street, Hoxton",BikePoint,51.52959,-0.0801,N1 6LB,Hackney 027E,E01001784,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_589,"Drayton Gardens, West Chelsea",BikePoint,51.487196,-0.179369,SW10 9QR,Kensington and Chelsea 020B,E01002895,Kensington and Chelsea 020,E02000596,Redcliffe,E05009402,Kensington and Chelsea,E09000020
+BikePoints_590,"Greenberry Street, St.John's Wood",BikePoint,51.53256,-0.16862,NW8 7AE,Westminster 001C,E01004724,Westminster 001,E02000960,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_591,"Westfield Library Corner, Shepherd's Bush",BikePoint,51.506093,-0.224223,W12 7BF,Hammersmith and Fulham 004A,E01001943,Hammersmith and Fulham 004,E02000375,Shepherd's Bush Green,E05000263,Hammersmith and Fulham,E09000013
+BikePoints_592,"Bishop's Bridge Road East, Bayswater",BikePoint,51.5171,-0.18377,W2 6LD,Westminster 014D,E01004656,Westminster 014,E02000973,Bayswater,E05000631,Westminster,E09000033
+BikePoints_593,"Northdown Street, King's Cross",BikePoint,51.531066,-0.11934,N1 9JJ,Islington 021B,E01002711,Islington 021,E02000574,Caledonian,E05000368,Islington,E09000019
+BikePoints_594,"Kingsway Southbound, Strand",BikePoint,51.513875,-0.117774,WC2B 6LH,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_595,"Hammersmith Road, Hammersmith",BikePoint,51.493267,-0.21985,W6 8BT,Hammersmith and Fulham 013C,E01001898,Hammersmith and Fulham 013,E02000384,Hammersmith Broadway,E05000256,Hammersmith and Fulham,E09000013
+BikePoints_596,"Parson's Green , Parson's Green",BikePoint,51.472817,-0.199783,SW6 4XG,Hammersmith and Fulham 025A,E01001925,Hammersmith and Fulham 025,E02000396,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_597,"Fulham Park Road, Fulham",BikePoint,51.473471,-0.20782,SW6 4JU,Hammersmith and Fulham 021E,E01001951,Hammersmith and Fulham 021,E02000392,Town,E05000264,Hammersmith and Fulham,E09000013
+BikePoints_598,"Southerton Road, Hammersmith",BikePoint,51.494499,-0.228188,W6 0DY,Hammersmith and Fulham 009C,E01001897,Hammersmith and Fulham 009,E02000380,Hammersmith Broadway,E05000256,Hammersmith and Fulham,E09000013
+BikePoints_599,"Manbre Road, Hammersmith",BikePoint,51.485743,-0.223616,W6 9SY,Hammersmith and Fulham 018B,E01001891,Hammersmith and Fulham 018,E02000389,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_600,"South Lambeth Road, Vauxhall",BikePoint,51.481747,-0.124642,SW8 1BQ,Lambeth 004F,E01033207,Lambeth 004,E02000621,Oval,E05000426,Lambeth,E09000022
+BikePoints_601,"BBC White City, White City",BikePoint,51.514767,-0.225787,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_602,"Union Grove, Wandsworth Road",BikePoint,51.472993,-0.133972,SW8 2RW,Lambeth 008A,E01003089,Lambeth 008,E02000625,Larkhall,E05000425,Lambeth,E09000022
+BikePoints_603,"Caldwell Street, Stockwell",BikePoint,51.477839,-0.116493,SW9 0EG,Lambeth 007A,E01003181,Lambeth 007,E02000624,Vassall,E05000436,Lambeth,E09000022
+BikePoints_604,"St Martins Close, Camden Town",BikePoint,51.538792,-0.138535,NW1 0JA,Camden 019B,E01000861,Camden 019,E02000184,Camden Town with Primrose Hill,E05000130,Camden,E09000007
+BikePoints_606,"Addison Road, Holland Park",BikePoint,51.504199,-0.210941,W14 8DU,Kensington and Chelsea 009E,E01002869,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_607,"Putney Bridge Station, Fulham",BikePoint,51.468814,-0.210279,SW6 3JY,Hammersmith and Fulham 024A,E01001915,Hammersmith and Fulham 024,E02000395,Palace Riverside,E05000259,Hammersmith and Fulham,E09000013
+BikePoints_608,"Colet Gardens, Hammersmith",BikePoint,51.491093,-0.216493,W6 8DE,Hammersmith and Fulham 012B,E01001867,Hammersmith and Fulham 012,E02000383,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_609,"Sugden Road, Clapham",BikePoint,51.465123,-0.157788,SW11 5QJ,Wandsworth 009E,E01004589,Wandsworth 009,E02000931,Shaftesbury,E05000623,Wandsworth,E09000032
+BikePoints_610,"Danvers Street, West Chelsea",BikePoint,51.482567,-0.172078,SW3 5AX,Kensington and Chelsea 019B,E01002845,Kensington and Chelsea 019,E02000595,Chelsea Riverside,E05009391,Kensington and Chelsea,E09000020
+BikePoints_611,"Princedale Road , Holland Park",BikePoint,51.506465,-0.208486,W11 4UE,Kensington and Chelsea 007B,E01002871,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_612,"Wandsworth Rd, Isley Court, Wandsworth Road",BikePoint,51.469259,-0.141812,SW8 3LX,Lambeth 012A,E01003034,Lambeth 012,E02000629,Clapham Town,E05000419,Lambeth,E09000022
+BikePoints_613,"Woodstock Grove, Shepherd's Bush",BikePoint,51.504038,-0.2174,W12 8LQ,Hammersmith and Fulham 007D,E01001857,Hammersmith and Fulham 007,E02000378,Addison,E05000250,Hammersmith and Fulham,E09000013
+BikePoints_253,"Shoreditch Park, Hoxton",BikePoint,51.534042,-0.086379,N1 5DX,Hackney 026B,E01001781,Hackney 026,E02000370,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_254,"Chadwell Street, Angel",BikePoint,51.530515,-0.106408,EC1R 1XA,Islington 021C,E01002727,Islington 021,E02000574,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_255,"Clifton Road, Maida Vale",BikePoint,51.525575,-0.179592,W9 1SX,Westminster 007D,E01004705,Westminster 007,E02000966,Little Venice,E05000639,Westminster,E09000033
+BikePoints_256,"Houghton Street, Strand",BikePoint,51.51362,-0.116764,WC2A 2AD,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_257,"Westminster University, Marylebone",BikePoint,51.522481,-0.154907,W1U 5UW,Westminster 008C,E01004712,Westminster 008,E02000967,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_258,"Kensington Gore, Knightsbridge",BikePoint,51.501432,-0.178656,SW7 2EU,Westminster 019B,E01004688,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_259,"Bourne Street, Belgravia",BikePoint,51.490959,-0.153233,SW1W 8UN,Westminster 023B,E01004666,Westminster 023,E02000982,Churchill,E05000633,Westminster,E09000033
+BikePoints_260,"Broadwick Street, Soho",BikePoint,51.513684,-0.13558,W1F 0DT,Westminster 013F,E01033596,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_261,"Princes Square, Bayswater",BikePoint,51.513489,-0.191351,W2 4AD,Westminster 017F,E01004699,Westminster 017,E02000976,Lancaster Gate,E05000638,Westminster,E09000033
+BikePoints_262,"LSBU (Borough Road), Elephant & Castle",BikePoint,51.498744,-0.103132,SE1 0AN,Southwark 034A,E01003930,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_263,"St. Mary Axe, Aldgate",BikePoint,51.514225,-0.08066,EC3A 8AE,City of London 001F,E01032739,City of London 001,E02000001,Aldgate,E05009289,City of London,E09000001
+BikePoints_264,"Tysoe Street, Clerkenwell",BikePoint,51.526443,-0.109256,EC1R 4RW,Islington 022F,E01002726,Islington 022,E02000575,Clerkenwell,E05000370,Islington,E09000019
+BikePoints_265,"Southwick Street, Paddington",BikePoint,51.515953,-0.169249,W2 2PR,Westminster 015C,E01004684,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_266,"Queen's Gate (North), Kensington",BikePoint,51.501026,-0.180246,SW7 5XE,Kensington and Chelsea 010D,E01002891,Kensington and Chelsea 010,E02000586,Queen's Gate,E05009401,Kensington and Chelsea,E09000020
+BikePoints_267,"Regency Street, Westminster",BikePoint,51.49206,-0.132224,SW1P 4AD,Westminster 021E,E01004747,Westminster 021,E02000980,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_268,"Belgrave Road, Victoria",BikePoint,51.493204,-0.144132,SW1V 1PN,Westminster 023E,E01004750,Westminster 023,E02000982,Warwick,E05000647,Westminster,E09000033
+BikePoints_269,"Empire Square, The Borough",BikePoint,51.500823,-0.08974,SE1 3YB,Southwark 006A,E01003938,Southwark 006,E02000812,Chaucer,E05011098,Southwark,E09000028
+BikePoints_270,"Kennington Lane Rail Bridge, Vauxhall",BikePoint,51.486343,-0.122492,SW8 1SS,Lambeth 004A,E01003102,Lambeth 004,E02000621,Oval,E05000426,Lambeth,E09000022
+BikePoints_271,"London Zoo,  The Regent's Park",BikePoint,51.535836,-0.156285,NW1 4RY,Westminster 001D,E01004730,Westminster 001,E02000960,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_272,"Baylis Road, Waterloo",BikePoint,51.501444,-0.110699,SE1 7AY,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_273,"Belvedere Road 1, South Bank",BikePoint,51.506133,-0.114686,SE1 8YL,Lambeth 036C,E01003016,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_274,"Warwick Road, Olympia",BikePoint,51.496712,-0.205284,W14 8QZ,Kensington and Chelsea 015A,E01002814,Kensington and Chelsea 015,E02000591,Abingdon,E05009388,Kensington and Chelsea,E09000020
+BikePoints_275,"Barbican Centre, Barbican",BikePoint,51.520044,-0.092176,EC2Y 8DX,City of London 001B,E01000002,City of London 001,E02000001,Cripplegate,E05009302,City of London,E09000001
+BikePoints_276,"Lower Thames Street, Monument",BikePoint,51.509301,-0.084985,EC3R 6AD,City of London 001F,E01032739,City of London 001,E02000001,Billingsgate,E05009291,City of London,E09000001
+BikePoints_277,"Kensington Church Street, Kensington",BikePoint,51.503157,-0.191496,W8 4AX,Kensington and Chelsea 008C,E01002826,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_278,"Tooley Street, Bermondsey",BikePoint,51.503493,-0.07962,SE1 2UD,Southwark 003E,E01004027,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_279,"North Wharf Road, Paddington",BikePoint,51.518622,-0.176645,W2 1BD,Westminster 015G,E01033594,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_280,"Royal Avenue 2, Chelsea",BikePoint,51.490083,-0.162418,SW3 4NB,Kensington and Chelsea 018D,E01002902,Kensington and Chelsea 018,E02000594,Royal Hospital,E05009403,Kensington and Chelsea,E09000020
+BikePoints_281,"Smith Square, Westminster",BikePoint,51.495805,-0.127575,SW1P 3AF,Westminster 020C,E01004733,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_282,"Royal London Hospital, Whitechapel",BikePoint,51.518675,-0.06111,E1 1DG,Tower Hamlets 013C,E01004208,Tower Hamlets 013,E02000876,Spitalfields & Banglatown,E05009333,Tower Hamlets,E09000030
+BikePoints_283,"Kingsway, Covent Garden",BikePoint,51.514409,-0.118478,WC2B 6TP,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_284,"Lambeth North Station, Waterloo",BikePoint,51.49914,-0.112031,SE1 7XG,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_286,"St. John's Wood Road, St. John's Wood",BikePoint,51.527294,-0.174653,NW8 8UF,Westminster 003E,E01004729,Westminster 003,E02000962,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_287,"Bedford Way, Bloomsbury",BikePoint,51.523673,-0.128377,WC1H 0AP,Camden 028A,E01000855,Camden 028,E02000193,Bloomsbury,E05000129,Camden,E09000007
+BikePoints_288,"Elizabeth Bridge, Victoria",BikePoint,51.492369,-0.147478,SW1W 9TN,Westminster 023B,E01004666,Westminster 023,E02000982,Churchill,E05000633,Westminster,E09000033
+BikePoints_289,"South Audley Street, Mayfair",BikePoint,51.50923,-0.151296,W1K 2PD,Westminster 011E,E01004762,Westminster 011,E02000970,West End,E05000649,Westminster,E09000033
+BikePoints_290,"St Mary's Hospital, Paddington",BikePoint,51.518268,-0.171103,W2 1PE,Westminster 015F,E01033593,Westminster 015,E02000974,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_291,"Claverton Street, Pimlico",BikePoint,51.484839,-0.138089,SW1V 3BQ,Westminster 024B,E01004669,Westminster 024,E02000983,Churchill,E05000633,Westminster,E09000033
+BikePoints_292,"Montpelier Street, Knightsbridge",BikePoint,51.498884,-0.165471,SW7 1EE,Westminster 019C,E01004689,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_293,"Kensington Olympia Station, Olympia",BikePoint,51.498157,-0.209494,W14 8HU,Kensington and Chelsea 009C,E01002867,Kensington and Chelsea 009,E02000585,Holland,E05009397,Kensington and Chelsea,E09000020
+BikePoints_294,"St. George's Square, Pimlico",BikePoint,51.488226,-0.135635,SW1V 2HP,Westminster 024F,E01004741,Westminster 024,E02000983,Tachbrook,E05000645,Westminster,E09000033
+BikePoints_295,"Swan Street, The Borough",BikePoint,51.500296,-0.092762,SE1 1BA,Southwark 002E,E01003939,Southwark 002,E02000808,Chaucer,E05011098,Southwark,E09000028
+BikePoints_296,"Knaresborough Place, Earl's Court",BikePoint,51.493631,-0.190603,SW5 0TJ,Kensington and Chelsea 013D,E01002850,Kensington and Chelsea 013,E02000589,Earl's Court,E05009395,Kensington and Chelsea,E09000020
+BikePoints_297,"Geraldine Street, Elephant & Castle",BikePoint,51.496127,-0.106,SE1 6EU,Southwark 034A,E01003930,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_298,"Curlew Street, Shad Thames",BikePoint,51.502279,-0.074189,SE1 2NL,Southwark 003H,E01032640,Southwark 003,E02000809,North Bermondsey,E05011106,Southwark,E09000028
+BikePoints_299,"Vincent Square, Westminster",BikePoint,51.493985,-0.136928,SW1P 1LQ,Westminster 021E,E01004747,Westminster 021,E02000980,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_300,"Serpentine Car Park, Hyde Park",BikePoint,51.505014,-0.17306,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_301,"Marylebone Lane, Marylebone",BikePoint,51.514759,-0.148105,W1C 1BY,Westminster 011B,E01004714,Westminster 011,E02000970,Marylebone High Street,E05000641,Westminster,E09000033
+BikePoints_302,"Putney Pier, Wandsworth",BikePoint,51.466907,-0.216573,SW15 1EP,Wandsworth 006E,E01004608,Wandsworth 006,E02000928,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_303,"Albert Gate, Hyde Park",BikePoint,51.502953,-0.158456,SW1X 7JT,Westminster 019E,E01004691,Westminster 019,E02000978,Knightsbridge and Belgravia,E05000637,Westminster,E09000033
+BikePoints_306,"Rathbone Street, Fitzrovia",BikePoint,51.518162,-0.135025,W1T 1NT,Westminster 013B,E01004763,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_307,"Black Lion Gate, Kensington Gardens",BikePoint,51.509908,-0.187842,W2 4RU,Kensington and Chelsea 008D,E01002827,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_308,"Long Lane , Bermondsey",BikePoint,51.499075,-0.085666,SE1 4PZ,Southwark 006B,E01003940,Southwark 006,E02000812,Chaucer,E05011098,Southwark,E09000028
+BikePoints_309,"Embankment (Savoy), Strand",BikePoint,51.509631,-0.119047,WC2R 0BL,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_310,"Black Prince Road, Vauxhall",BikePoint,51.490867,-0.116911,SE11 6JH,Lambeth 003B,E01003105,Lambeth 003,E02000620,Prince's,E05000427,Lambeth,E09000022
+BikePoints_311,"Foley Street, Fitzrovia",BikePoint,51.519181,-0.140485,W1W 7TJ,Westminster 013D,E01004765,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_312,"Grove End Road, St. John's Wood",BikePoint,51.530889,-0.17677,NW8 9BN,Westminster 003A,E01004651,Westminster 003,E02000962,Abbey Road,E05000630,Westminster,E09000033
+BikePoints_313,"Wells Street, Fitzrovia",BikePoint,51.517344,-0.138072,W1T 3QB,Westminster 013D,E01004765,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_314,"Tyers Gate, Bermondsey",BikePoint,51.500889,-0.083159,SE1 3JG,Southwark 003I,E01032646,Southwark 003,E02000809,London Bridge & West Bermondsey,E05011104,Southwark,E09000028
+BikePoints_315,"The Tennis Courts, The Regent's Park",BikePoint,51.525367,-0.153463,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_316,"Warwick Row, Westminster",BikePoint,51.497998,-0.14296,SW1E 5BY,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_317,"Dickens Square, Borough",BikePoint,51.496791,-0.093913,SE1 6AD,Southwark 009C,E01003943,Southwark 009,E02000815,Chaucer,E05011098,Southwark,E09000028
+BikePoints_318,"Sackville Street, Mayfair",BikePoint,51.510048,-0.138846,W1S 3DU,Westminster 013E,E01033595,Westminster 013,E02000972,West End,E05000649,Westminster,E09000033
+BikePoints_319,"Baldwin Street, St. Luke's",BikePoint,51.527025,-0.088542,EC1V 2NL,Islington 023A,E01002701,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_320,"Queen Mother Sports Centre, Victoria",BikePoint,51.493573,-0.139956,SW1V 1TB,Westminster 020D,E01004744,Westminster 020,E02000979,Vincent Square,E05000646,Westminster,E09000033
+BikePoints_321,"Bermondsey Street, Bermondsey",BikePoint,51.497855,-0.081608,SE1 3UL,Southwark 006C,E01003941,Southwark 006,E02000812,Chaucer,E05011098,Southwark,E09000028
+BikePoints_322,"Palissy Street, Shoreditch",BikePoint,51.526293,-0.073955,E2 7LA,Tower Hamlets 006C,E01004315,Tower Hamlets 006,E02000869,Weavers,E05009335,Tower Hamlets,E09000030
+BikePoints_323,"Clifton Street, Shoreditch",BikePoint,51.523196,-0.083067,EC2A 4LG,Hackney 027G,E01033708,Hackney 027,E02000371,Hoxton East & Shoreditch,E05009377,Hackney,E09000012
+BikePoints_324,"Ontario Street, Elephant & Castle",BikePoint,51.49652,-0.101384,SE1 6LN,Southwark 034B,E01003932,Southwark 034,E02006802,St George's,E05011114,Southwark,E09000028
+BikePoints_325,"St. Martin's Street, West End",BikePoint,51.509087,-0.129697,WC2H 7HF,Westminster 018A,E01004734,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_326,"Graham Street, Angel",BikePoint,51.532661,-0.099981,N1 8LB,Islington 020D,E01002802,Islington 020,E02000573,St Peter's,E05000380,Islington,E09000019
+BikePoints_327,"New North Road 1, Hoxton",BikePoint,51.53095,-0.085603,N1 6JE,Hackney 027H,E01033709,Hackney 027,E02000371,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_328,"New North Road 2, Hoxton",BikePoint,51.53114,-0.086016,N1 6TL,Hackney 027H,E01033709,Hackney 027,E02000371,Hoxton West,E05009378,Hackney,E09000012
+BikePoints_329,"Prince Albert Road, The Regent's Park",BikePoint,51.535892,-0.160854,NW8 7LX,Westminster 001D,E01004730,Westminster 001,E02000960,Regent's Park,E05000643,Westminster,E09000033
+BikePoints_330,"Eastbourne Mews, Paddington",BikePoint,51.516417,-0.179135,W2 6LQ,Westminster 016A,E01004681,Westminster 016,E02000975,Hyde Park,E05000636,Westminster,E09000033
+BikePoints_331,"Bunhill Row, Moorgate",BikePoint,51.520858,-0.089887,EC1Y 4TY,Islington 023D,E01002704,Islington 023,E02000576,Bunhill,E05000367,Islington,E09000019
+BikePoints_332,"Nevern Place, Earl's Court",BikePoint,51.493343,-0.194757,SW5 9RH,Kensington and Chelsea 015D,E01002851,Kensington and Chelsea 015,E02000591,Earl's Court,E05009395,Kensington and Chelsea,E09000020
+BikePoints_333,"Palace Gardens Terrace, Notting Hill",BikePoint,51.508605,-0.193764,W8 4DY,Kensington and Chelsea 008D,E01002827,Kensington and Chelsea 008,E02000584,Campden,E05009390,Kensington and Chelsea,E09000020
+BikePoints_334,"Concert Hall Approach 1, South Bank",BikePoint,51.505044,-0.115851,SE1 7DY,Lambeth 036E,E01032582,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_335,"Tavistock Street, Covent Garden",BikePoint,51.511968,-0.120718,WC2E 7DT,Westminster 018B,E01004735,Westminster 018,E02000977,St James's,E05000644,Westminster,E09000033
+BikePoints_614,"London Fields, Hackney Central",BikePoint,51.54119,-0.058826,E8 3PG,Hackney 023F,E01033704,Hackney 023,E02000367,London Fields,E05009381,Hackney,E09000012
+BikePoints_615,"Finlay Street, Fulham",BikePoint,51.476885,-0.215895,SW6 6TQ,Hammersmith and Fulham 022A,E01001904,Hammersmith and Fulham 022,E02000393,Munster,E05000257,Hammersmith and Fulham,E09000013
+BikePoints_616,"Aintree Street, Fulham",BikePoint,51.481021,-0.209973,SW6 7QY,Hammersmith and Fulham 019D,E01001903,Hammersmith and Fulham 019,E02000390,Munster,E05000257,Hammersmith and Fulham,E09000013
+BikePoints_617,"Elysium Place, Fulham",BikePoint,51.471079,-0.207842,SW6 4ND,Hammersmith and Fulham 024D,E01001952,Hammersmith and Fulham 024,E02000395,Town,E05000264,Hammersmith and Fulham,E09000013
+BikePoints_618,"Eel Brook Common, Walham Green",BikePoint,51.476259,-0.193254,SW6 4SG,Hammersmith and Fulham 020E,E01001924,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_619,"Irene Road, Parsons Green",BikePoint,51.473763,-0.19701,SW6 4BT,Hammersmith and Fulham 020C,E01001922,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_620,"Surrey Lane, Battersea",BikePoint,51.47518,-0.16716,SW11 3AS,Wandsworth 003C,E01004577,Wandsworth 003,E02000925,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_621,"Wandsworth Town Station, Wandsworth",BikePoint,51.460864,-0.187427,SW18 1AJ,Wandsworth 012C,E01004514,Wandsworth 012,E02000934,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_622,"Lansdowne Road, Ladbroke Grove",BikePoint,51.507481,-0.205535,W11 3QZ,Kensington and Chelsea 007B,E01002871,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_623,"Nantes Close, Wandsworth",BikePoint,51.46193,-0.180791,SW11 2RY,Wandsworth 012D,E01004515,Wandsworth 012,E02000934,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_624,"Courland Grove, Wandsworth Road",BikePoint,51.472918,-0.132102,SW8 2RN,Lambeth 008A,E01003089,Lambeth 008,E02000625,Larkhall,E05000425,Lambeth,E09000022
+BikePoints_625,"Queen's Circus, Battersea Park",BikePoint,51.477619,-0.149551,SW11 4BU,Wandsworth 001B,E01004566,Wandsworth 001,E02000923,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_626,"Normand Park, West Kensington",BikePoint,51.484386,-0.204815,SW6 7RY,Hammersmith and Fulham 015A,E01001885,Hammersmith and Fulham 015,E02000386,Fulham Broadway,E05000254,Hammersmith and Fulham,E09000013
+BikePoints_627,"Holden Street, Battersea",BikePoint,51.46879,-0.15823,SW11 5UF,Wandsworth 005D,E01004592,Wandsworth 005,E02000927,Shaftesbury,E05000623,Wandsworth,E09000032
+BikePoints_628,"William Morris Way, Sands End",BikePoint,51.468819,-0.184318,SW6 2UX,Hammersmith and Fulham 023F,E01032790,Hammersmith and Fulham 023,E02000394,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_629,"Morie Street, Wandsworth",BikePoint,51.459953,-0.190184,SW18 1SR,Wandsworth 010A,E01004509,Wandsworth 010,E02000932,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_630,"Clarence Walk, Stockwell",BikePoint,51.470732,-0.126994,SW4 6QX,Lambeth 008E,E01003128,Lambeth 008,E02000625,Stockwell,E05000429,Lambeth,E09000022
+BikePoints_631,"Battersea Park Road, Nine Elms",BikePoint,51.479501,-0.14177,SW8 4DU,Wandsworth 002H,E01033132,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_632,"Sheepcote Lane, Battersea",BikePoint,51.470538,-0.163041,SW11 5BW,Wandsworth 003B,E01004540,Wandsworth 003,E02000925,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_633,"Vereker Road, West Kensington",BikePoint,51.489591,-0.209378,W14 9DY,Hammersmith and Fulham 014D,E01001914,Hammersmith and Fulham 014,E02000385,North End,E05000258,Hammersmith and Fulham,E09000013
+BikePoints_634,"Brook Green South, Brook Green",BikePoint,51.494347,-0.215804,W6 7EF,Hammersmith and Fulham 010D,E01001869,Hammersmith and Fulham 010,E02000381,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_635,"Greyhound Road, Hammersmith",BikePoint,51.486062,-0.214428,W6 8NT,Hammersmith and Fulham 016C,E01001890,Hammersmith and Fulham 016,E02000387,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_636,"South Park, Sands End",BikePoint,51.467064,-0.193502,SW6 3HH,Hammersmith and Fulham 025B,E01001934,Hammersmith and Fulham 025,E02000396,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_637,"Spencer Park, Wandsworth Common",BikePoint,51.45787,-0.174691,SW18 2TB,Wandsworth 019D,E01004621,Wandsworth 019,E02000941,Wandsworth Common,E05000627,Wandsworth,E09000032
+BikePoints_638,"Falcon Road, Clapham Junction",BikePoint,51.466633,-0.169821,SW11 2PE,Wandsworth 008B,E01004536,Wandsworth 008,E02000930,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_639,"Coomer Place, West Kensington",BikePoint,51.48357,-0.202038,SW6 7EY,Hammersmith and Fulham 017B,E01001881,Hammersmith and Fulham 017,E02000388,Fulham Broadway,E05000254,Hammersmith and Fulham,E09000013
+BikePoints_640,"Silverthorne Road, Battersea",BikePoint,51.472865,-0.148059,SW8 3HL,Wandsworth 002D,E01004564,Wandsworth 002,E02000924,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_641,"Archbishop's Park, Waterloo",BikePoint,51.498241,-0.117495,SE1 7LG,Lambeth 036A,E01003013,Lambeth 036,E02006801,Bishop's,E05000416,Lambeth,E09000022
+BikePoints_642,"Fawcett Close, Battersea",BikePoint,51.469161,-0.174485,SW11 2LU,Wandsworth 007D,E01004541,Wandsworth 007,E02000929,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_643,"All Saints' Road, Portobello",BikePoint,51.519042,-0.204764,W11 1HF,Kensington and Chelsea 004B,E01002830,Kensington and Chelsea 004,E02000580,Colville,E05009392,Kensington and Chelsea,E09000020
+BikePoints_644,"Rainville Road, Hammersmith",BikePoint,51.483732,-0.223852,W6 9HJ,Hammersmith and Fulham 018A,E01001888,Hammersmith and Fulham 018,E02000389,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_645,"Great Suffolk Street, The Borough",BikePoint,51.501732,-0.100292,SE1 0BE,Southwark 034D,E01032583,Southwark 034,E02006802,Borough & Bankside,E05011095,Southwark,E09000028
+BikePoints_646,"Buckingham Gate, Westminster",BikePoint,51.498865,-0.137424,SW1E 6AL,Westminster 020A,E01004731,Westminster 020,E02000979,St James's,E05000644,Westminster,E09000033
+BikePoints_647,"Richmond Way, Shepherd's Bush",BikePoint,51.500353,-0.217515,W14 0AR,Hammersmith and Fulham 007A,E01001852,Hammersmith and Fulham 007,E02000378,Addison,E05000250,Hammersmith and Fulham,E09000013
+BikePoints_648,"Peterborough Road, Sands End",BikePoint,51.46904,-0.196274,SW6 3DB,Hammersmith and Fulham 025B,E01001934,Hammersmith and Fulham 025,E02000396,Sands End,E05000262,Hammersmith and Fulham,E09000013
+BikePoints_649,"World's End Place, West Chelsea",BikePoint,51.481805,-0.180274,SW10 0LE,Kensington and Chelsea 021E,E01002913,Kensington and Chelsea 021,E02000597,Stanley,E05009405,Kensington and Chelsea,E09000020
+BikePoints_650,"St. Mark's Road, North Kensington",BikePoint,51.51687,-0.213872,W10 6JE,Kensington and Chelsea 003C,E01002878,Kensington and Chelsea 003,E02000579,St. Helen's,E05009404,Kensington and Chelsea,E09000020
+BikePoints_651,"Thorndike Close, West Chelsea",BikePoint,51.480898,-0.183853,SW10 0TX,Kensington and Chelsea 021D,E01002843,Kensington and Chelsea 021,E02000597,Chelsea Riverside,E05009391,Kensington and Chelsea,E09000020
+BikePoints_652,"Evesham Street, Avondale",BikePoint,51.511486,-0.21819,W10 6TF,Kensington and Chelsea 005A,E01002870,Kensington and Chelsea 005,E02000581,Notting Dale,E05009399,Kensington and Chelsea,E09000020
+BikePoints_653,"Simpson Street, Clapham Junction",BikePoint,51.470847,-0.170703,SW11 3HL,Wandsworth 004C,E01004580,Wandsworth 004,E02000926,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_654,"Ashmole Estate, Oval",BikePoint,51.482678,-0.117661,SW8 1QE,Lambeth 004F,E01033207,Lambeth 004,E02000621,Oval,E05000426,Lambeth,E09000022
+BikePoints_655,"Crabtree Lane, Fulham",BikePoint,51.482944,-0.219346,SW6 6HP,Hammersmith and Fulham 016B,E01001887,Hammersmith and Fulham 016,E02000387,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_656,"Broomhouse Lane, Parsons Green",BikePoint,51.468418,-0.199135,SW6 3DR,Hammersmith and Fulham 024B,E01001916,Hammersmith and Fulham 024,E02000395,Palace Riverside,E05000259,Hammersmith and Fulham,E09000013
+BikePoints_657,"Blythe Road West, Shepherd's Bush",BikePoint,51.49968,-0.221791,W14 0HJ,Hammersmith and Fulham 010C,E01001856,Hammersmith and Fulham 010,E02000381,Addison,E05000250,Hammersmith and Fulham,E09000013
+BikePoints_658,"Ethelburga Estate, Battersea Park",BikePoint,51.477292,-0.164786,SW11 4QY,Wandsworth 001C,E01004582,Wandsworth 001,E02000923,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_659,"Blackfriars Station, St. Paul's",BikePoint,51.511934,-0.103078,EC4V 4DY,City of London 001F,E01032739,City of London 001,E02000001,Castle Baynard,E05009297,City of London,E09000001
+BikePoints_660,"West Kensington Station, West Kensington",BikePoint,51.49087,-0.206029,W14 9AE,Hammersmith and Fulham 012D,E01001870,Hammersmith and Fulham 012,E02000383,Avonmore and Brook Green,E05000252,Hammersmith and Fulham,E09000013
+BikePoints_661,"All Saints Church, Portobello",BikePoint,51.51632,-0.202608,W11 1JQ,Kensington and Chelsea 004B,E01002830,Kensington and Chelsea 004,E02000580,Colville,E05009392,Kensington and Chelsea,E09000020
+BikePoints_662,"Phene Street, Chelsea",BikePoint,51.484984,-0.167919,SW3 5NZ,Kensington and Chelsea 018B,E01002900,Kensington and Chelsea 018,E02000594,Chelsea Riverside,E05009391,Kensington and Chelsea,E09000020
+BikePoints_663,"Clarendon Road, Avondale",BikePoint,51.51323,-0.211593,W11 1SA,Kensington and Chelsea 007D,E01002874,Kensington and Chelsea 007,E02000583,Norland,E05009398,Kensington and Chelsea,E09000020
+BikePoints_664,"Austin Road, Battersea Park",BikePoint,51.474376,-0.155442,SW11 4LT,Wandsworth 001A,E01004560,Wandsworth 001,E02000923,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_665,"Smugglers Way, Wandsworth",BikePoint,51.461083,-0.191722,SW18 1EG,Wandsworth 010A,E01004509,Wandsworth 010,E02000932,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_667,"Shepherd's Bush Road North, Shepherd's Bush",BikePoint,51.501594,-0.222293,W6 7LX,Hammersmith and Fulham 007C,E01001854,Hammersmith and Fulham 007,E02000378,Addison,E05000250,Hammersmith and Fulham,E09000013
+BikePoints_668,"Ravenscourt Park Station, Hammersmith",BikePoint,51.494223,-0.236769,W6 0UQ,Hammersmith and Fulham 011A,E01001928,Hammersmith and Fulham 011,E02000382,Ravenscourt Park,E05000261,Hammersmith and Fulham,E09000013
+BikePoints_669,"Teversham Lane, Stockwell",BikePoint,51.476149,-0.123258,SW8 2DP,Lambeth 006D,E01003124,Lambeth 006,E02000623,Stockwell,E05000429,Lambeth,E09000022
+BikePoints_670,"Ashley Crescent, Battersea",BikePoint,51.467185,-0.152248,SW11 5QY,Wandsworth 005B,E01004590,Wandsworth 005,E02000927,Shaftesbury,E05000623,Wandsworth,E09000032
+BikePoints_671,"Parsons Green Station, Parsons Green",BikePoint,51.475089,-0.201968,SW6 4QY,Hammersmith and Fulham 021B,E01001948,Hammersmith and Fulham 021,E02000392,Town,E05000264,Hammersmith and Fulham,E09000013
+BikePoints_673,"Hibbert Street, Battersea",BikePoint,51.46517,-0.180389,SW11 3QS,Wandsworth 007C,E01004538,Wandsworth 007,E02000929,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_674,"Carnegie Street, King's Cross",BikePoint,51.535467,-0.116191,N1 0UE,Islington 019B,E01002697,Islington 019,E02000572,Barnsbury,E05000366,Islington,E09000019
+BikePoints_675,"Usk Road, Clapham Junction",BikePoint,51.463489,-0.182126,SW11 2RR,Wandsworth 007C,E01004538,Wandsworth 007,E02000929,Latchmere,E05000617,Wandsworth,E09000032
+BikePoints_676,"Hartington Road, Stockwell",BikePoint,51.47787,-0.126874,SW8 2HL,Lambeth 006A,E01003097,Lambeth 006,E02000623,Oval,E05000426,Lambeth,E09000022
+BikePoints_677,"Heath Road, Battersea",BikePoint,51.468669,-0.146544,SW8 3DL,Lambeth 013A,E01003037,Lambeth 013,E02000630,Clapham Town,E05000419,Lambeth,E09000022
+BikePoints_678,"Esmond Street, Putney",BikePoint,51.462312,-0.211468,SW15 2LG,Wandsworth 010C,E01004602,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_679,"Orbel Street, Battersea",BikePoint,51.474535,-0.17021,SW11 3PN,Wandsworth 004B,E01004579,Wandsworth 004,E02000926,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_680,"Westbridge Road, Battersea",BikePoint,51.477684,-0.170329,SW11 3AN,Wandsworth 001D,E01004583,Wandsworth 001,E02000923,St Mary's Park,E05000622,Wandsworth,E09000032
+BikePoints_681,"Bishop's Avenue, Fulham",BikePoint,51.473036,-0.214749,SW6 6EG,Hammersmith and Fulham 024A,E01001915,Hammersmith and Fulham 024,E02000395,Palace Riverside,E05000259,Hammersmith and Fulham,E09000013
+BikePoints_682,"Crisp Road, Hammersmith",BikePoint,51.488108,-0.226606,W6 9BF,Hammersmith and Fulham 018B,E01001891,Hammersmith and Fulham 018,E02000389,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_683,"Dorothy Road, Clapham Junction",BikePoint,51.465064,-0.16375,SW11 2JR,Wandsworth 008D,E01004585,Wandsworth 008,E02000930,Shaftesbury,E05000623,Wandsworth,E09000032
+BikePoints_684,"Neville Gill Close, Wandsworth",BikePoint,51.454752,-0.195197,SW18 4BW,Wandsworth 018C,E01004600,Wandsworth 018,E02000940,Southfields,E05000624,Wandsworth,E09000032
+BikePoints_685,"Osiers Road, Wandsworth",BikePoint,51.46067,-0.198735,SW18 1NL,Wandsworth 010F,E01033093,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_686,"Beryl Road, Hammersmith",BikePoint,51.488144,-0.222456,W6 9PL,Hammersmith and Fulham 018B,E01001891,Hammersmith and Fulham 018,E02000389,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_688,"Northfields, Wandsworth",BikePoint,51.460951,-0.200667,SW18 1PE,Wandsworth 010F,E01033093,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_689,"Spanish Road, Clapham Junction",BikePoint,51.459225,-0.180884,SW18 2HZ,Wandsworth 012B,E01004510,Wandsworth 012,E02000934,Fairfield,E05000614,Wandsworth,E09000032
+BikePoints_690,"Stanley Grove, Battersea",BikePoint,51.470475,-0.15213,SW8 3PL,Wandsworth 005A,E01004565,Wandsworth 005,E02000927,Queenstown,E05000620,Wandsworth,E09000032
+BikePoints_691,"Erin Close, Walham Green",BikePoint,51.479463,-0.195777,SW6 1BF,Hammersmith and Fulham 020A,E01001920,Hammersmith and Fulham 020,E02000391,Parsons Green and Walham,E05000260,Hammersmith and Fulham,E09000013
+BikePoints_692,"Cadogan Close, Victoria Park",BikePoint,51.542118,-0.028941,E9 5FU,Hackney 018D,E01001849,Hackney 018,E02000362,Hackney Wick,E05009374,Hackney,E09000012
+BikePoints_693,"Felsham Road, Putney",BikePoint,51.464786,-0.215618,SW15 1SF,Wandsworth 010E,E01004609,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_694,"Putney Rail Station, Putney",BikePoint,51.460717,-0.216526,SW15 1TE,Wandsworth 010E,E01004609,Wandsworth 010,E02000932,Thamesfield,E05000625,Wandsworth,E09000032
+BikePoints_695,"Islington Green, Angel",BikePoint,51.536384,-0.102757,N1 2XR,Islington 020B,E01002794,Islington 020,E02000573,St Mary's,E05000379,Islington,E09000019
+BikePoints_696,"Charing Cross Hospital, Hammersmith",BikePoint,51.487285,-0.217995,W6 8HA,Hammersmith and Fulham 016C,E01001890,Hammersmith and Fulham 016,E02000387,Fulham Reach,E05000255,Hammersmith and Fulham,E09000013
+BikePoints_785,"Aquatic Centre, Queen Elizabeth Olympic Park",BikePoint,51.54094,-0.01051,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BikePoints_838,"Fore Street Avenue, Guildhall",BikePoint,51.518093,-0.091401,EC2Y 5DE,City of London 001B,E01000002,City of London 001,E02000001,Bassishaw,E05009290,City of London,E09000001
